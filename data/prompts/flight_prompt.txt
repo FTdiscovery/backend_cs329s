@@ -1,0 +1,10 @@
+News: "Safe Travels and the 5G Service Launch. Transportation Secretary Pete Buttigieg and Federal Aviation Administrator Stephen Dickson are rightly defending U.S. leadership in aviation safety—and protecting passengers and shippers—by insisting that telecom companies ensure safety before launching new 5G service that could damage pilots’ ability to navigate airliners."
+
+Stock Prediction(s):
+- AT&T Inc. (NYSE: T) will decrease because the government is regulating telecom companies and so may slow their launch of a 5G service.
+- Verizon Communications Inc. (NYSE: VZ) will decrease because the government is regulating telecom companies and so may slow their launch of a 5G service.
+- Southwest Airlines (NYSE:LUV) will increase because customers will feel more safe about flying with these precautions
+
+News: "{TITLE}. {SUMMARY}"
+
+Stock Prediction(s):

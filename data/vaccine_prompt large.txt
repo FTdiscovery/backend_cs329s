@@ -1,0 +1,987 @@
+{'down_down': 201, 'up_up': 289, 'down_up': 223, 'up_down': 253, 'down_flat': 8, 'up_flat': 11}
+481.936175844679
+HTZ earned 117.36956521739118 on Day Traders Buy Until It Hertz
+GTN earned 79.60433349034392 on Meredith Exiting Local TV Business in $2.7 Billion
+APRN earned 78.07570977917983 on Blue Apron's Beyond Meat Deal Lacks Substance
+UBER earned 77.92207792207799 on Ride-Sharing Gets Locked Down by Coronavirus
+AMC earned 71.20232172470969 on SEC to Review Brokers' Restrictions on GameStop, A
+HTZ earned 52.529832935560954 on Hertz Misses Lease Payment, Prepares for Potential
+GME earned 42.21995233231195 on Fidelity Cashes In Most of GameStop Stake
+BABA earned 39.45564690610126 on Bitcoin, Coinbase, Shiba Inu, Alibaba: What to Wat
+CHK earned 36.62983425414363 on Hedge Funds That Cashed In When Oil Prices Cratere
+KSS earned 35.43307086614182 on Bitcoin, Coinbase, Shiba Inu, Alibaba: What to Wat
+LYFT earned 34.066924066924 on Ride-Sharing Gets Locked Down by Coronavirus
+HTZ earned 33.63914373088681 on Hertz Names Paul Stone as CEO as Firm Fights for S
+AMAT earned 32.835820895522325 on Chips' Biggest Political Pawn Still Has a Strong G
+HAL earned 32.109974750695024 on Halliburton Cutting Costs, Bracing for Drop in Oil
+MPC earned 28.277634961439624 on 7-Eleven's $21 Billion Deal Could Be a Marathon
+SPWR earned 26.67534157449578 on Will 'Green Energy' Produce More Jobs? Three Exper
+MSGN earned 25.723472668810196 on Madison Square Garden Entertainment to Acquire MSG
+SAGE earned 24.80521545555736 on Safety and Biotech Investing Don't Mix
+CNK earned 24.662360540223233 on Movie Industry's Troubles Still Far From Wrapping 
+DAL earned 24.128686327077798 on Delta, Virgin Galactic, KB Home, Taiwan Semiconduc
+SLB earned 22.291599613775308 on Halliburton Cutting Costs, Bracing for Drop in Oil
+MTCH earned 21.83650615901459 on Facebook's New Dating App: We're Not Feeling the L
+GME earned 21.557444671616594 on SEC to Review Brokers' Restrictions on GameStop, A
+TVTY earned 20.14142177463498 on No Happy Meal for Nutrisystem's Owner
+LEVI earned 19.416935573606406 on Levi's CFO Looks to Bring Down Debt Further as Bus
+BA earned 19.410815173527045 on U.S. Durable-Goods Orders Drop for First Time Sinc
+ARNA earned 19.370725034199683 on Pfizer to Acquire Arena Pharmaceuticals in $6.7 Bi
+CTLT earned 19.006182734142392 on Catalent to Buy Paragon Bioservices for $1.2 Billi
+T earned 17.65828666984237 on Working From Home Hasn't Broken Internet
+GCI earned 17.612524461839673 on Alden Is in Talks to Buy Tribune Publishing
+VZ earned 16.644474034620504 on Working From Home Hasn't Broken Internet
+FB earned 16.339932775068423 on Facebook to Counter Apple Privacy Update With Its 
+SPOT earned 16.13738257899223 on Citrix, Spotify, Knightscope, Tesla: What to Watch
+APO earned 15.34061362454507 on Leon Black Offers More Details on Ties to Jeffrey 
+UTX earned 15.07185418857347 on FAA Proposes Safety Fix for Another 737 MAX Produc
+BA earned 15.011664872726882 on Boeing Reports More MAX Cancellations
+Z earned 14.11451398135822 on Help for Taxpayers Who Need to Prove Where They Li
+WFC earned 13.958036984352837 on Wells Fargo Gamed System in Investor Arbitration, 
+XOM earned 13.847407005158784 on Trump Tweets Crush Oil Market as Prices Fall Nearl
+SPOT earned 13.78653592306238 on Spotify Needs Joe Rogan and Music Fans
+DIS earned 13.603673858417878 on The Hollywood Drama That Cost a BlackRock Fund $75
+MOS earned 13.555058692006691 on Surging Fertilizer Costs Push Farms to Shift Plant
+TSLA earned 13.491979177732972 on Hoping That Cars Will Last as Long as the Loan
+TSLA earned 13.401583093981198 on Will 'Green Energy' Produce More Jobs? Three Exper
+FB earned 13.316795183263778 on Dutch Politician Targeted in Twitter Hack
+GME earned 13.28520964521571 on Leading a Digital Overhaul? Here's Some Advice
+BHP earned 13.147303461228733 on Metals Escape Worst of Selloff on Hopes for Chines
+AMZN earned 13.066422368895726 on Google Is the Only Big Tech Priced for Trouble
+KHC earned 12.94608973413572 on Who Moved Kraft Heinz's Cheese?
+RIO earned 12.826183104820839 on Metals Escape Worst of Selloff on Hopes for Chines
+GS earned 12.681636155606352 on Goldman's Long-Term Shift Remains Key
+AMZN earned 12.605317187699507 on Dutch Politician Targeted in Twitter Hack
+DKS earned 12.365902979656758 on Best Buy's, Dick's E-Commerce Growth Slows After P
+ENT earned 12.295081967213035 on Flight Wi-Fi Provider Global Eagle Files for Bankr
+UBER earned 12.24566691785981 on U.S. Air Force Gives Lift to Flying Taxis
+CVX earned 12.156780549151085 on Industrial Commodities Extend Slide as Coronavirus
+SCHW earned 12.13703853486621 on Beyond Robinhood: 4 Financial Apps That Help Indiv
+GOOGL earned 12.04614108866895 on Jassy's Climb to Amazon CEO Shows the Cloud's Risi
+AAPL earned 11.952295206033519 on Dutch Politician Targeted in Twitter Hack
+MKC earned 11.44489285511279 on Home-Cooking Trend Is Mixed Bag for Spice Giant
+ANF earned 11.332417582417524 on Retailers Get Another Blow: Hand-Me-Downs
+BA earned 11.116817155756344 on U.S. Industrial Production Rises for Third Straigh
+GRUB earned 10.949720670391105 on Why Uber Is Shrinking Its Global Food-Delivery Men
+NFLX earned 10.809627372390834 on Working From Home Hasn't Broken Internet
+GS earned 10.761545411064343 on Morgan Stanley Profit Rises Amid Wall Street Deal 
+SLB earned 10.615711252653826 on U.S. Crude Posts Largest Decline in Nearly Three D
+XOM earned 10.501287893798319 on Industrial Commodities Extend Slide as Coronavirus
+WEN earned 10.116337885685347 on McDonald's Sales Fall Amid Changing Dining Habits
+Z earned 10.024182168432167 on Zillow's Growth Prospects Dim as It Exits Home Fli
+AAPL earned 9.804948070590289 on Google Is the Only Big Tech Priced for Trouble
+ACH earned 9.787928221859788 on Metals Escape Worst of Selloff on Hopes for Chines
+AMC earned 9.784407299935237 on Movie Industry's Troubles Still Far From Wrapping 
+HMC earned 9.620009620009586 on Honda Plans to Shut Down North American Plants for
+DISCA earned 9.6086243262246 on Discovery Revenue Falls as Covid-19 Pandemic Hits 
+BA earned 9.446465330062383 on SpaceX Rockets Were Imperiled by Contractor's Fals
+EPD earned 9.438009438009543 on Why the Colonial Pipeline Shutdown Is Causing Gas 
+RIO earned 9.431984908824205 on Industrial Commodities Extend Slide as Coronavirus
+BAC earned 9.21187308085976 on Morgan Stanley Profit Rises Amid Wall Street Deal 
+MSFT earned 9.076712863556438 on EU's Top Court Restricts Personal-Data Transfers t
+BAC earned 9.066874027993782 on Demand for Fed Repos Remains Robust
+FB earned 9.055863983344837 on TikTok Shutdown Argued Before Federal Judge
+AAL earned 8.725394387826247 on U.S. Airlines Say Nascent Recovery Delayed by Omic
+BBY earned 8.678960297720279 on Best Buy's, Dick's E-Commerce Growth Slows After P
+CMCSA earned 8.529997156667534 on Working From Home Hasn't Broken Internet
+MAR earned 8.378585352269699 on Pandemic Pushes Hospitality Workers Into New Caree
+CHK earned 8.345682864051113 on Natural-Gas Prices Fall on Milder Weather
+BA earned 8.277069753867034 on FAA Proposes Safety Fix for Another 737 MAX Produc
+MRO earned 8.264462809917424 on Hedge Funds That Cashed In When Oil Prices Cratere
+LB earned 8.227374719521407 on L Brands Faces Pressure to Separate Victoria's Sec
+LYFT earned 8.212655922925743 on Uber Jackpot: Inside One of the Greatest Startup I
+SHW earned 8.12640125609127 on PPG Industries Puts Focus on M&A Instead of Share 
+GOOGL earned 8.059690215193768 on Google Is the Only Big Tech Priced for Trouble
+PFE earned 7.953225394407636 on Covid-19 Vaccines Pose Potential Side Effects, Doc
+FB earned 7.950116913484006 on Google Is the Only Big Tech Priced for Trouble
+CAR earned 7.821901323706317 on Cargill Hires GE's Former Finance Chief
+AEO earned 7.807417046193949 on Retailers Get Another Blow: Hand-Me-Downs
+TSLA earned 7.7895057342941065 on Ford Recalls Mustang Mach-E Electric SUVs Over Win
+GOOGL earned 7.556590782678638 on The Key to Getting People to Be Safer Online: Make
+GE earned 7.5187969924811755 on U.S. Industrial Production Rises for Third Straigh
+NFLX earned 7.5112398289890026 on Is an Oscar Campaign Worth the Time and Money?
+WMB earned 7.38817891373811 on Why the Colonial Pipeline Shutdown Is Causing Gas 
+MSFT earned 7.3390151515150714 on Slack Files EU Antitrust Complaint Against Microso
+BA earned 7.209702062643196 on Boeing Loss Driven by Dreamliner, Space Problems
+CAJ earned 6.973307912297431 on Olympus to Exit Camera Business After 84 Years
+AMZN earned 6.959367728119033 on Silicon Valley Gets Another President Skeptical of
+MMM earned 6.926200143300672 on Industrial Production Points to Slowing Manufactur
+CAR earned 6.77419354838719 on Food Exporters Resist China's New Coronavirus Rest
+AVGO earned 6.62114628595081 on Broadcom Ordered by EU to Halt Allegedly Anticompe
+UNH earned 6.43462458508726 on Wall Street Has an Obamacare Problem
+TWTR earned 6.425601612700077 on Dutch Politician Targeted in Twitter Hack
+APO earned 6.4056939501778904 on Hedge Fund Nominates Four to Tegna's Board, Settin
+RDFN earned 6.382978723404214 on Zillow's Growth Prospects Dim as It Exits Home Fli
+F earned 6.174427579109905 on Cars and Chips Will Only Get Closer
+BG earned 6.1285239012432395 on How to Get Rid of Carbon Emissions: Pay Farmers to
+GM earned 6.103678929765721 on Hoping That Cars Will Last as Long as the Loan
+ADM earned 6.088427270303971 on Bunge May Sell Assets
+PFE earned 6.0049019607842515 on Analyze This: Big Pharma Is Eager to Hire
+IBM earned 5.950694247662319 on D-Wave Opens Quantum-Computing Resources to Corona
+FCX earned 5.94246031746039 on Copper Prices Rise on Trade Hopes
+SLB earned 5.917159763313615 on Industrial Commodities Extend Slide as Coronavirus
+ERJ earned 5.912162162162186 on Boeing Reports More MAX Cancellations
+F earned 5.904455179817468 on GM Turns to Google for in-Car Apps, Voice Commands
+OXY earned 5.903060321952951 on Occidental's Battle Has Just Begun
+GIS earned 5.86982049991609 on Comfort Foods Make a Comeback in the Coronavirus A
+URBN earned 5.780346820809254 on Retailers Get Another Blow: Hand-Me-Downs
+BHP earned 5.7494052339412995 on Brazil Dam Collapse Prompts Potential Rule Shakeup
+CVS earned 5.673638750105866 on Wall Street Has an Obamacare Problem
+CMCSA earned 5.6546324488908715 on AMC Finds the Right Price with WarnerMedia
+BABA earned 5.6411369060533305 on Backlash Brews in China's Startup Culture Against 
+AXP earned 5.633802816901455 on ECB Looks to Keep Rates Low for Longer
+FB earned 5.521498809250998 on How to Work From Home Effectively
+SQ earned 5.513276051424652 on Credit Karma in Talks to Sell Tax-Preparation Busi
+WMT earned 5.50214893430393 on What the Fed's Interest-Rate Cut Means for You
+TWTR earned 5.476068484915078 on How to Build Positive Relationships at Work
+FB earned 5.398110661268415 on How to Build Positive Relationships at Work
+GS earned 5.387947766408381 on Demand for Fed Repos Remains Robust
+AMZN earned 5.336083358283208 on Amazon Rolls Out a Wellness Tracker That It Says C
+XOM earned 5.27748000329843 on Oil Prices Recover Some Losses After Omicron Drove
+UBER earned 5.234134319161996 on Ex-Google Self-Driving Engineer Files for Bankrupt
+BAC earned 5.19349974870156 on How Citigroup Could Stumble
+NBL earned 5.102040816326573 on Nike Scores Jersey Deal With EPL's Liverpool
+WMT earned 5.0881341358556265 on Walmart Scraps Plan to Have Robots Scan Shelves
+ADM earned 5.063320825515895 on It's Slow Going, but Stuff Like Wheat and Oil Can 
+CAT earned 5.063291139240579 on Caterpillar, 3M Flag Falling Sales to Businesses
+F earned 5.050454086781089 on VW's CEO Survives Labor Dispute but With Diminishe
+DRI earned 5.035545023696523 on Olive Garden's Owner Reports Sales Plunge as Coron
+FFR earned 5.024077215683352 on Transcript: WSJ Interview With St. Louis Fed Presi
+AMZN earned 4.934316857459852 on How Both the Company and Employee Benefit From Hig
+JPM earned 4.9261677548969764 on Goldman's Traders, Bankers Keep Profit Steady Whil
+CVX earned 4.8258313591295705 on Oil Prices Recover Some Losses After Omicron Drove
+JPM earned 4.81139337952271 on Morgan Stanley Profit Rises Amid Wall Street Deal 
+XOM earned 4.7538495483509475 on Aramco Shares Offer a Stake in the Kingdom
+VALE earned 4.746059544658476 on Brazil Dam Collapse Prompts Potential Rule Shakeup
+KBH earned 4.7372954349698295 on Help for Taxpayers Who Need to Prove Where They Li
+YUM earned 4.722414190278699 on McDonald's Sales Fall Amid Changing Dining Habits
+MCD earned 4.659156005346676 on McDonald's to Back Diverse Restaurant Owners
+FB earned 4.6520778123662065 on Getting Over the Slump in Sports Betting
+MSFT earned 4.589087234759193 on Companies Take a Piecemeal Approach to Automation 
+TWTR earned 4.5139580198640585 on Trump's Twitter Storm Could Soak Social Media
+TEVA earned 4.504504504504409 on Israeli Strikes Target Iranian Oil Bound for Syria
+CF earned 4.417984429298842 on Surging Fertilizer Costs Push Farms to Shift Plant
+AAPL earned 4.382268666779119 on Former TikTok CEO Addresses Streaming, Music and C
+SQ earned 4.374961122975713 on Square's Future Needs to Take Shape
+BG earned 4.366291276961248 on Food Exporters Resist China's New Coronavirus Rest
+KKR earned 4.363545692557144 on KKR Earnings Rise, as Private-Equity Portfolio Cli
+BX earned 4.330376003379669 on KKR Earnings Rise, as Private-Equity Portfolio Cli
+TTWO earned 4.251943178772517 on 'Fortnite' Worries Continue to Blow Away Game Make
+PFE earned 4.174876847290624 on How the U.K. Beat the U.S. and Europe to a Covid-1
+F earned 4.096662830839902 on Honda Plans to Shut Down North American Plants for
+NKE earned 4.012981121540905 on Consumer Confidence Fell in December
+MET earned 4.006652555186031 on AIG Results Look Grim but Represent Progress
+COST earned 3.982550335570487 on Supermarkets Ration Supplies as Coronavirus Fear E
+XOM earned 3.979185797367694 on U.S. Crude Posts Largest Decline in Nearly Three D
+GT earned 3.9706780696396624 on Federal Prosecutors Probe Giuliani's Links to Ukra
+TGT earned 3.9704182028403614 on Grinch Bots Steal Christmas Again
+AMZN earned 3.9093733039866736 on CIOs Look Beyond Economic Expansion to Eventual Sl
+TSLA earned 3.9086711782934898 on SEC to Review Brokers' Restrictions on GameStop, A
+M earned 3.8734667527437376 on Kohl's Should Reject Short-Sighted Activism
+CVS earned 3.8724511405577924 on Business Groups Withdraw Suit Challenging Health-P
+MSFT earned 3.8646081634113094 on Microsoft to Close Its Retail Stores
+CMCSA earned 3.8591977546485587 on Discovery Revenue Falls as Covid-19 Pandemic Hits 
+HON earned 3.858520900321461 on How 400,000 Masks Were Shipped From China to a U.S
+STL earned 3.8383382253330707 on Inflation Cuts Both Ways for GM
+MSFT earned 3.7963952674061874 on Wells Fargo to Tech Vendors: Please Send Us a Chec
+AMZN earned 3.7588161323832256 on Inflation Isn't Whipped, Just Tamer
+AAPL earned 3.7108880829890527 on The Overnight Business Boom That Took a Century
+FB earned 3.6910254502158333 on The Key to Getting People to Be Safer Online: Make
+FB earned 3.6569378320568626 on Cameo Aims to Connect Celebrities With Fans and It
+CAT earned 3.639886647128586 on U.S. Trade Deficit Widened to Record in June, Show
+CAT earned 3.6233485042640323 on U.S. Durable-Goods Orders Drop for First Time Sinc
+AMZN earned 3.572231404788445 on What the Fed's Interest-Rate Cut Means for You
+CVX earned 3.552938787940397 on Oil Falls to 12-Month Low on Coronavirus Concerns
+CS earned 3.4705007436787447 on West Virginia Governor's Companies Look to Pay Off
+MSFT earned 3.4639808634198843 on What CEOs, CFOs Are Saying About Prospects of High
+RIO earned 3.3775633293124385 on Steel Ingredient Iron Ore Hits Nearly Five-Year Hi
+MMM earned 3.3695245226506074 on How 400,000 Masks Were Shipped From China to a U.S
+SHOP earned 3.366447263405941 on Shopify's Business Sells Itself, for Now
+GS earned 3.363803979907809 on Investment Banking Propels Citigroup's Profit
+WYND earned 3.3613445378151736 on Hotels Count on Road Trippers to Drive Visits
+WDAY earned 3.3306965319122837 on How to Work From Home Effectively
+MSFT earned 3.3001665278935257 on Jassy's Climb to Amazon CEO Shows the Cloud's Risi
+FB earned 3.2730843364729867 on The Overnight Business Boom That Took a Century
+XOM earned 3.224506247480929 on Oil Demand Recovery Expected to Pick Up Speed
+AZN earned 3.2021096251647125 on U.K. Bolsters Foreign-Takeover Defenses as Pandemi
+MCD earned 3.1984566177590263 on Coronavirus Pandemic Squeezes McDonald's Profit
+DIS earned 3.193916349809863 on AMC Finds the Right Price with WarnerMedia
+GOOGL earned 3.1772949461185003 on Blackstone Adds Alphabet Finance Chief Porat to Bo
+SLB earned 3.17460317460308 on Shale Drillers May Boost Spending, but Don't Expec
+BA earned 3.1734463019479766 on United Removes 737 MAX From Schedules Until June
+AAPL earned 3.1705382453171924 on What CEOs, CFOs Are Saying About Prospects of High
+WMT earned 3.1554737810487032 on Petco Revenue Jumps in First Earnings Report After
+AMZN earned 3.132297449876765 on Companies Take a Piecemeal Approach to Automation 
+CMCSA earned 3.1295406281435247 on Comcast's Profit Falls on Sky Costs, Erosion of Pa
+MPC earned 3.1099802092168347 on Why Hurricanes Can Take Gasoline Prices for a Wild
+ORCL earned 3.0652722683015092 on Wells Fargo to Tech Vendors: Please Send Us a Chec
+F earned 3.054989816700546 on Driverless Cars Are 90% Here. Another Is 90% Left 
+ERIC earned 2.9962546816480096 on A Recent College Graduate Starts His Engineering C
+DVN earned 2.9707495429616673 on Natural-Gas Prices Fall on Milder Weather
+YUM earned 2.9293299157818757 on No Soda Fountains, More Cleaning: McDonald's Sets 
+OMC earned 2.916831422169492 on Martin Sorrell's Comeback Plan: Take Down WPP and 
+F earned 2.9154518950436694 on Finance Chiefs Call on Executives to Help Fight Po
+FID earned 2.902675014228707 on Beyond Robinhood: 4 Financial Apps That Help Indiv
+AA earned 2.881229324511901 on Thanksgiving Dinner Staples Are Low in Stock
+BAC earned 2.8592318469412463 on Goldman's Traders, Bankers Keep Profit Steady Whil
+UPS earned 2.8399870172022763 on Coronavirus Shifts Pricing Power to UPS and FedEx
+CVX earned 2.8307022318998927 on Oil Demand Recovery Expected to Pick Up Speed
+AAPL earned 2.829156720637411 on MacBook Pro Rights Wrongs by Fixing Awkward Keyboa
+M earned 2.8246257886272823 on Coronavirus Finishes the Retail Reckoning That Ama
+CVX earned 2.8155795401221155 on Coronavirus's Worst Impact on Oil Demand Has Passe
+SNE earned 2.812207061764358 on Is an Oscar Campaign Worth the Time and Money?
+UAL earned 2.792984024131382 on United Removes 737 MAX From Schedules Until June
+CVX earned 2.7732128184058755 on Libyan Warlord's Oil Foray Draws U.S., U.N. Scruti
+BG earned 2.7553269654666734 on It's Slow Going, but Stuff Like Wheat and Oil Can 
+HSY earned 2.7518202144127626 on Smucker CFO Weighs Additional Price Hikes if Infla
+PSX earned 2.7461096779562144 on Why Hurricanes Can Take Gasoline Prices for a Wild
+GG earned 2.6978417266188073 on Gold Rises on Haven Demand, Weaker Dollar
+SPOT earned 2.695314004081432 on Former TikTok CEO Addresses Streaming, Music and C
+AMZN earned 2.688052181686657 on Wells Fargo to Tech Vendors: Please Send Us a Chec
+EQT earned 2.673796791443878 on Natural-Gas Prices Fall on Milder Weather
+FB earned 2.6703932257796024 on Facebook Backs Underwater Cable Projects to Boost 
+CSCO earned 2.642850151190026 on Remote Work: How to Build and Maintain an Office C
+CMCSA earned 2.5906735751295704 on Disney Shareholders Support Company in Say-on-Pay 
+NKE earned 2.589899392369809 on Nike Site Sells Out of Kobe Bryant Merchandise in 
+CMG earned 2.5869977719908848 on Omicron Starts to Slow U.S. Economy as Consumer Sp
+BP earned 2.5766205587199886 on Saudis Seek to Ease Tensions With Iran
+KR earned 2.5559105431309357 on Supermarkets Ration Supplies as Coronavirus Fear E
+BAC earned 2.5369978858351914 on Investment Banking Propels Citigroup's Profit
+NFLX earned 2.5224542167269597 on Netflix Changes How It Ranks Viewership
+UAL earned 2.52100840336144 on Airline Makes Real Money on Fake Flights
+TWTR earned 2.497086732145806 on YouTube to Remove Videos With Vaccine Misinformati
+F earned 2.495118246908189 on Tesla Boldly Goes Where No Auto Stock Has Gone Bef
+QCOM earned 2.481389578163685 on Chip Makers Still Await Clearance to Sell to Huawe
+GE earned 2.477291494632482 on Industrial Production Points to Slowing Manufactur
+DB earned 2.4390243902438504 on London Stock Exchange to Close Unprofitable Intere
+PFE earned 2.430133657351189 on Johnson & Johnson Posts Higher Quarterly Profit
+T earned 2.4253100514699883 on CNN Anchors Press for Details on Jeff Zucker's Res
+F earned 2.4000000000000163 on U.S. Auto Makers Sweat Under Threat of Tariffs on 
+FDX earned 2.390464191425313 on USPS, FedEx, UPS Release Ship-By Dates for Holiday
+RACE earned 2.3684425448506916 on Volkswagen in Talks to Sell Bugatti Brand to Croat
+TWTR earned 2.3632680621201985 on Twitter to Add Labels to Disputed Coronavirus Post
+WPP earned 2.3566878980892008 on Martin Sorrell's Comeback Plan: Take Down WPP and 
+PEP earned 2.3410360972662914 on Comfort Foods Make a Comeback in the Coronavirus A
+BAC earned 2.336448598130745 on EU Aims for Clarity in Murky World of Sustainable 
+CVX earned 2.332361516035143 on A Top Occidental Executive Is Out as Company Grapp
+BX earned 2.3323615160350735 on Leon Black Offers More Details on Ties to Jeffrey 
+SNAP earned 2.3266256444371254 on Instagram's Plan for Kids Met With Hostile Respons
+AMZN earned 2.3213185964222043 on Wayfair Posts Profit as Online Pandemic Shoppers S
+MDP earned 2.3020103818538833 on Meredith Exiting Local TV Business in $2.7 Billion
+MSFT earned 2.28108903605594 on Microsoft Earnings Poised for Growth: What to Watc
+DNKN earned 2.2049095987065366 on Economy Notches 100th Straight Month of Increased 
+KKR earned 2.197112366603901 on TPG Appoints New President, Makes Other Management
+XOM earned 2.1867115222876796 on Gasoline Demand Has Peaked, Global Forecaster Says
+CVS earned 2.1556990748821776 on CVS Eases Concerns About Aetna Deal
+JPM earned 2.1368435119605436 on EU Aims for Clarity in Murky World of Sustainable 
+CAT earned 2.1363241871953615 on Industrial Production Points to Slowing Manufactur
+COST earned 2.1135773763085766 on Store Brands Could Make a Name for Themselves This
+NEM earned 2.080998879462069 on Gold Edges Up as Dollar Falls
+AAPL earned 2.0753777187448117 on Silicon Valley Gets Another President Skeptical of
+PRU earned 2.0679844921085806 on U.K. Companies Penalized for Failing to Pay Suppli
+AMZN earned 2.0534638965272602 on Jassy's Climb to Amazon CEO Shows the Cloud's Risi
+SPOT earned 2.052785923753674 on Apple Music Gets Into the Muzak Business
+SNAP earned 2.0172326406487384 on Snap Says It Won't Promote Trump's Snapchat Accoun
+AZN earned 2.0048115477144006 on WHO Recommends AstraZeneca Covid-19 Vaccine Agains
+GM earned 2.0040080160320928 on Car Sales Fell in the Second Quarter, Despite Deal
+BA earned 1.9974500637484014 on U.S. Air Force Gives Lift to Flying Taxis
+JNJ earned 1.9828155981492388 on J&J to Pay $117 Million Over Surgical Device Marke
+GM earned 1.9747235387046094 on Tesla Quality Falls Short in J.D. Power Car Survey
+BHP earned 1.9321974354470302 on Steel Ingredient Iron Ore Hits Nearly Five-Year Hi
+INTC earned 1.9151443724220636 on White House to Push Infrastructure Plan at Chip Me
+FB earned 1.9094787719665935 on U.S. Regulators Raise Concern With Stablecoin Digi
+UA earned 1.8985625169514588 on Nike Site Sells Out of Kobe Bryant Merchandise in 
+PFE earned 1.864926069002083 on The Covid Vaccine News Is Great-but You Just Issue
+AMZN earned 1.8423852401587553 on Petco Revenue Jumps in First Earnings Report After
+TSLA earned 1.8354759487454402 on Driverless Cars Are 90% Here. Another Is 90% Left 
+CVX earned 1.8350973028337607 on Oil Prices Close Higher on Supply Risks
+CENX earned 1.828153564899575 on Aluminum Prices Push Toward 2020 High
+OXY earned 1.8178512997637053 on Occidental Chief Defends Anadarko Deal to Sharehol
+UNH earned 1.8105515587529868 on Business Groups Withdraw Suit Challenging Health-P
+GOOGL earned 1.806957748479357 on Be Careful-These Stocks Have Weak Tickers
+BP earned 1.798561151079115 on Gasoline Demand Has Peaked, Global Forecaster Says
+MMM earned 1.7886345053147705 on 3M Loses First Trial Over Military Earplugs
+MRK earned 1.7852892168530288 on Opioid Risk Smothers Drug Stocks
+ALLY earned 1.7807422597491511 on Overdraft Fees Are Getting the Boot at Ally Financ
+BA earned 1.7693894100997507 on U.A.E. Threatens to Pull Out of $23 Billion F-35, 
+MDLZ earned 1.7588430721124937 on Comfort Foods Make a Comeback in the Coronavirus A
+ORLY earned 1.7535742570130912 on Auto-Parts Retail Goes Full Throttle
+KSS earned 1.7489312087057192 on Kohl's Promotes Finance Veteran to CFO in Effort t
+F earned 1.7221584385764142 on GM Leans on U.S. Truck Buyers to Counter Weakness 
+MCD earned 1.707925902291564 on Omicron Starts to Slow U.S. Economy as Consumer Sp
+MSFT earned 1.7033578431127454 on Microsoft Delays Full Headquarters Reopening to Un
+F earned 1.6889632107022663 on Tesla Quality Falls Short in J.D. Power Car Survey
+LOW earned 1.6840648742217177 on Covid-19 Whiplash Jolts California's Small Busines
+VZ earned 1.6770082173401695 on Finance Chiefs Call on Executives to Help Fight Po
+WMT earned 1.6616117405327444 on Target Keeps Growing at Rivals' Expense
+JPM earned 1.598330588374293 on How Citigroup Could Stumble
+GM earned 1.589928237025661 on White House to Push Infrastructure Plan at Chip Me
+QSR earned 1.5762807764632234 on Burger King and Popeyes Deliver Higher Sales for R
+ATVI earned 1.5518913676042347 on EA Needs This Mobile Play to Stick
+XOM earned 1.5269145068605852 on Coronavirus's Worst Impact on Oil Demand Has Passe
+GE earned 1.5116810885572627 on GE Digital to Play Scaled Back Role in Split
+PS earned 1.5090543259557916 on Payless ShoeSource Emerges From Bankruptcy
+BAC earned 1.4871468026343804 on Wells Fargo Gamed System in Investor Arbitration, 
+TWTR earned 1.4746543778801529 on Getting Over the Slump in Sports Betting
+KBH earned 1.4632718759146697 on L.A. Megamansion Developer Nile Niami Places Spec 
+ADM earned 1.4542671259088995 on Ethanol Prices Climb on Strong Fuel Demand
+SPCE earned 1.4251781472682938 on Delta, Virgin Galactic, KB Home, Taiwan Semiconduc
+NKE earned 1.4230031553547595 on Levi's CFO Looks to Bring Down Debt Further as Bus
+AMZN earned 1.4209793389604115 on Microsoft Earnings Poised for Growth: What to Watc
+UTX earned 1.4040999719179208 on GE Prepares for the Next Rainy Day
+FB earned 1.3908205841446453 on Facebook CEO to Testify at House Panel About Libra
+XOM earned 1.3828816900580854 on Should Fossil-Fuel Companies Bear Responsibility f
+HON earned 1.3821700069107388 on GE Prepares for the Next Rainy Day
+TRV earned 1.3204258153069792 on ECB Looks to Keep Rates Low for Longer
+GS earned 1.3198416190057034 on Goldman's Traders, Bankers Keep Profit Steady Whil
+XOM earned 1.317771084337355 on Oil Falls to 12-Month Low on Coronavirus Concerns
+INTC earned 1.307854770804195 on Nvidia's Cryptocurrency Puzzle Gets Less Vexing
+JPM earned 1.296751146405904 on Federal Reserve Sent Lower Remittances to U.S. Tre
+UBS earned 1.2834985386672193 on Tidjane Thiam's Ouster Raises More Questions at Cr
+AAPL earned 1.2791079042308506 on What Amazon's Rise to No. 1 Says About the Stock M
+SPG earned 1.267427122940512 on Mall Operators Simon and Taubman Pair Up
+MSFT earned 1.260954542588668 on CIOs Look to Boost Tech Teams' Diversity
+WMT earned 1.2499526533085266 on How to Make Money Decisions When the Future Is Unc
+CARG earned 1.2437810945272925 on It's Slow Going, but Stuff Like Wheat and Oil Can 
+APC earned 1.2303485987696978 on Occidental Chief Defends Anadarko Deal to Sharehol
+WMT earned 1.2290920750281527 on Economy Notches 100th Straight Month of Increased 
+BUD earned 1.2270731077240875 on AB InBev Explores IPO for Asia Business
+RACE earned 1.208021261174128 on Aston Martin Stalls Again
+AZN earned 1.2074178593025389 on Can the AstraZeneca Vaccine Cause Blood Clots? Wha
+ZM earned 1.1800077532219264 on Zoom Restored After Outage Brings Down Virtual Mee
+SQ earned 1.1598446735390624 on Square Inc.'s CFO Talks Bitcoin, Afterpay and Cash
+IBM earned 1.1447260834014765 on IBM Revenue Trends in Reverse
+AMZN earned 1.120424931529512 on Panera's Grocery Aisle? Electric Vans for Amazon? 
+NUE earned 1.0946362822171305 on Nucor to Replace CEO at Year-End
+KO earned 1.0914864060329375 on Herbalife CFO Looks to Change Investor Views After
+GREK earned 1.0672358591250335 on Investors Pile Into Once-Unloved Greek Debt
+ROKU earned 1.0650559519120208 on Roku Drops YouTube TV App in Carriage Dispute
+WHR earned 1.0601241859761834 on Does the Convenience of a Countertop Dishwasher Ou
+MSFT earned 1.0167683435010157 on Intuit CIO: Be Strategic About the Bots You Build
+JPM earned 1.0073829738772853 on Two Fed Doves Make Case for Central Bank Rate Cuts
+AVGO earned 1.0031043439696872 on Intel CEO Calls Chip Maker 'Willing Buyer' as Indu
+SCHW earned 0.993189557321129 on Robinhood Joins the Online Cash War
+AMZN earned 0.9910802775024777 on The Amazon Prime Day Deal That Walmart and Target 
+F earned 0.9855769230769035 on White House to Push Infrastructure Plan at Chip Me
+BP earned 0.9706959706958774 on Oil Falls to 12-Month Low on Coronavirus Concerns
+GSK earned 0.968523002421287 on What to Know About Breakthrough Infections, Cases 
+V earned 0.9532565171201505 on ECB Looks to Keep Rates Low for Longer
+MCD earned 0.9503046564929059 on Illinois Governor to Sign Bill Raising Minimum Wag
+CMCSA earned 0.9465364946536237 on Comcast Launches Smart TV for U.S. Market in Bid t
+FB earned 0.9371420637952124 on Silicon Valley Gets Another President Skeptical of
+DVN earned 0.9341429238673318 on Natural Gas Jumps on Colder Weather Forecasts
+PPG earned 0.9334242970058603 on PPG Industries Puts Focus on M&A Instead of Share 
+AA earned 0.9099181073703173 on Aluminum Prices Push Toward 2020 High
+RGR earned 0.9052924791086034 on Gun Maker Remington Preps for Bankruptcy, Seeks Sa
+NKE earned 0.9019301304792597 on Lululemon Names New CFO
+GOOGL earned 0.897287992821796 on Facebook Backs Underwater Cable Projects to Boost 
+JPM earned 0.8934155275619452 on Once a Lonely Bond Bull, HSBC's Steven Major Takes
+HON earned 0.8869572930062913 on GE Digital to Play Scaled Back Role in Split
+JNJ earned 0.8860535176324986 on Johnson & Johnson Posts Higher Quarterly Profit
+MSFT earned 0.883159833139108 on CIOs Look Beyond Economic Expansion to Eventual Sl
+WMT earned 0.8784539210988614 on EBay Names Walmart Executive as Its New CEO
+AAPL earned 0.8685954783714446 on Spotify Hits the Right Notes in Apple Complaint
+F earned 0.8639308855291393 on Car Companies' Profits Have Outrun the Chip Shorta
+AAPL earned 0.8561845177799364 on TikTok Shutdown Argued Before Federal Judge
+GOOGL earned 0.8471137699949457 on Facebook Warned That It May Lose a Key Seal of App
+CAT earned 0.8364382936658407 on Economic Growth in U.S. and Europe Slows
+BAC earned 0.8285004142501895 on HSBC's Loan Losses Hint at Tougher Times for Banks
+MDLZ earned 0.8204193254330302 on Who Moved Kraft Heinz's Cheese?
+BYND earned 0.8203445447088643 on Blue Apron's Beyond Meat Deal Lacks Substance
+HSY earned 0.8154188287619364 on Comfort Foods Make a Comeback in the Coronavirus A
+FB earned 0.8100714595937955 on The Real Problems of Living in a Virtual World
+GS earned 0.8014024542949991 on UniCredit to Pay $1.3 Billion to Settle Sanctions 
+PFE earned 0.7864523536165352 on WHO Recommends AstraZeneca Covid-19 Vaccine Agains
+AAP earned 0.7843649911759235 on Auto-Parts Retail Goes Full Throttle
+FB earned 0.7794232268121146 on Facebook Removed Nearly 40% More Terrorist Content
+INTC earned 0.7627765064835841 on Intel CEO Calls Chip Maker 'Willing Buyer' as Indu
+GE earned 0.7593014426727249 on Cargill Hires GE's Former Finance Chief
+XOM earned 0.7590235703926238 on Oil Prices Close Higher on Supply Risks
+EWP earned 0.7565358190612189 on Investors Pile Into Once-Unloved Greek Debt
+CVX earned 0.7444168734491597 on Oil Demand Takes a Hit From Cooling Economic Growt
+WFC earned 0.7394398742952056 on FHFA to Propose Capital Rule for Fannie, Freddie i
+MAT earned 0.7278652906029737 on Monopoly Maker Gets a Big Lift From Lockdown
+DIS earned 0.7169101173940164 on AMC Delays Reopening Theaters to Late July
+SBUX earned 0.711047906852709 on Omicron Starts to Slow U.S. Economy as Consumer Sp
+ADM earned 0.7053844345168384 on Floods Deal New Blow to Farm Belt
+AAPL earned 0.7011755001031797 on Microsoft Earnings Poised for Growth: What to Watc
+C earned 0.6855575868373204 on Citigroup Profit Falls 34%
+MTCH earned 0.6855184233076118 on Why Tinder Is the Long Island Iced Tea of Dating A
+GS earned 0.6799497249295138 on Federal Reserve Sent Lower Remittances to U.S. Tre
+CTXS earned 0.6567220189510571 on Citrix Activist Could Clean Up on Messy Cloud Tran
+AAPL earned 0.6525648983749036 on Tips to Get the Best Performance From an Older iPh
+ETFC earned 0.6467468632776763 on Fidelity Cuts Online Trading Commissions to Zero
+IBM earned 0.6458905215565824 on EU's Top Court Restricts Personal-Data Transfers t
+KR earned 0.6329915179138039 on Store Brands Could Make a Name for Themselves This
+JPM earned 0.6251439476195102 on Barclays Profit Soars on Investment Banking
+AAPL earned 0.6241158358991665 on Facebook Takes Down China-Linked Hacking Campaign 
+AMD earned 0.6218905472637052 on AMD Will Need to Keep Upping Its Game
+JBHT earned 0.6126914660830913 on Celadon Group Nearing Deal to Sell Taylor Express 
+YUM earned 0.6119951040391909 on McDonald's to Pay $26 Million in Wage Suit
+GPS earned 0.6080875646091828 on Retailers Get Another Blow: Hand-Me-Downs
+HD earned 0.6050020893132779 on Best Buy's, Dick's E-Commerce Growth Slows After P
+XOM earned 0.605001344447455 on Oil Demand Takes a Hit From Cooling Economic Growt
+FB earned 0.6026872762080899 on Facebook Takes Down China-Linked Hacking Campaign 
+MSFT earned 0.5946481665013683 on Tech-Oriented Companies Profit From Demand for Sel
+CI earned 0.5866577271204503 on Stocks to Watch: Delta, Cigna, Fastenal, Bed Bath 
+UNH earned 0.5822253940501195 on Medicare Enrollment Can Be Confusing and Lead to U
+DIS earned 0.5701254275941599 on Care.com CFO Resigns
+T earned 0.5659309564232037 on U.S. Internet Pricing Is All Over the Place. Help 
+WMT earned 0.5614322161085722 on New York Fed Adds $102.14 Billion to Markets, Buys
+CVX earned 0.5552984729292205 on Gasoline Demand Has Peaked, Global Forecaster Says
+PFE earned 0.5509641873277141 on Drugmaker to Test Machine Learning to Prevent Drug
+BP earned 0.5417245683867474 on Oil Prices Close Higher on Supply Risks
+FB earned 0.532989752182001 on Trump's Twitter Storm Could Soak Social Media
+NKE earned 0.5190012110028112 on As Companies Fret, Consumers Keep Spending
+AAPL earned 0.5116096025186755 on Apple's Moves to Tighten Flow of User Data Leave A
+KBH earned 0.49627791563283197 on Home-Price Growth Hit Record in July
+WMT earned 0.4959372373213177 on Grinch Bots Steal Christmas Again
+AAPL earned 0.4900898711295716 on The Key to Getting People to Be Safer Online: Make
+ZM earned 0.48694297202167974 on How to Bridge the Communications Gap in a Hybrid O
+WMT earned 0.4868355688027533 on Walmart Looks to Hire Cryptocurrency Expert
+IBM earned 0.47816053720300655 on GE Digital to Play Scaled Back Role in Split
+AAPL earned 0.46401116822943966 on Spotify Needs Joe Rogan and Music Fans
+BAH earned 0.43898156277446326 on Judges Approve Settlement Between McKinsey and Jus
+FDX earned 0.4315925766076578 on Coronavirus Kills Several FedEx Workers at Newark 
+XOM earned 0.4221730397738942 on Oil Prices Rise Amid Supply Cuts
+WBA earned 0.41073384446860517 on Illinois Governor to Sign Bill Raising Minimum Wag
+PFE earned 0.4078303425775032 on Novavax Starts Late-Stage Trial of Covid-19 Vaccin
+AAPL earned 0.38966035887930073 on Fund to Let Retail Investors Bet on Early Tech Sta
+BP earned 0.38557933294781427 on Libyan Warlord's Oil Foray Draws U.S., U.N. Scruti
+BUD earned 0.36724201248615534 on Finance Chiefs Call on Executives to Help Fight Po
+F earned 0.3649635036496921 on U.S. Trade Deficit Widened to Record in June, Show
+DIS earned 0.32383967205058617 on Omicron Starts to Slow U.S. Economy as Consumer Sp
+AGN earned 0.3143270258375743 on Opioid Risk Smothers Drug Stocks
+RJF earned 0.30766075274332 on After Courts Kill a Federal Fiduciary Rule, Massac
+SE earned 0.30383592859849634 on 7-Eleven's $21 Billion Deal Could Be a Marathon
+TAP earned 0.3035361966913951 on AB InBev Explores IPO for Asia Business
+NEM earned 0.28993911278625717 on Barrick's Biggest Shareholder Opposes Acquisition 
+T earned 0.28272547356531286 on Large Telecoms, State Enforcers Make Pact to Comba
+INTU earned 0.26966638415899985 on Intuit CIO: Be Strategic About the Bots You Build
+AMZN earned 0.26185564806601386 on As Companies Fret, Consumers Keep Spending
+T earned 0.2615062761505756 on HBO Max: What We Know and Don't Know
+CHKP earned 0.252929769833919 on Colonial Pipeline Hack Shows Ransomware Emergence 
+JPM earned 0.2523596621956338 on Goldman's Long-Term Shift Remains Key
+SCHW earned 0.24285107158040364 on After Courts Kill a Federal Fiduciary Rule, Massac
+AMZN earned 0.22985863693820455 on U.S. Unemployment Hit 50-Year Low in September
+MSFT earned 0.22140766070499887 on Remote Work: How to Build and Maintain an Office C
+X earned 0.21668472372693415 on Steel Group Urges Tariffs on Building Products
+GS earned 0.19435436193268396 on SEC Joins List of Authorities Probing Money Launde
+GS earned 0.19212295869370116 on Turkey Blocks Foreign Banks in Attempt to Stem Cur
+TCO earned 0.18825301204815534 on Mall Operators Simon and Taubman Pair Up
+MMM earned 0.18618506795755688 on Caterpillar, 3M Flag Falling Sales to Businesses
+QSR earned 0.15405946695410422 on Delta Variant Threatens Restaurant Rebound
+GOOGL earned 0.14123663827070942 on YouTube to Remove Videos With Vaccine Misinformati
+GS earned 0.13512093323512264 on EU Aims for Clarity in Murky World of Sustainable 
+PEP earned 0.1331166318396606 on Who Moved Kraft Heinz's Cheese?
+JNJ earned 0.12189001218897187 on Analyze This: Big Pharma Is Eager to Hire
+FB earned 0.12112036336115205 on Apple's Moves to Tighten Flow of User Data Leave A
+MSFT earned 0.1196703935445282 on Facebook Backs Underwater Cable Projects to Boost 
+UAL earned 0.11931750387771035 on Airline Earnings Fund the Battle for Latin America
+PFE earned 0.11734334663230599 on Growth Is Worth Paying Up for at Pfizer
+NFLX earned 0.11001100110021841 on U.S. Unemployment Hit 50-Year Low in September
+BA earned 0.08639023816359061 on U.S. Trade Deficit Widened to Record in June, Show
+AAPL earned 0.08621730208830068 on CIOs Look to Boost Tech Teams' Diversity
+PANW earned 0.08585302253564585 on Colonial Pipeline Hack Shows Ransomware Emergence 
+AMZN earned 0.05414273106759127 on Sen. Ron Wyden's Capital-Gains Tax Plan Devotes Tr
+IBM earned 0.03493693882538834 on Companies Take a Piecemeal Approach to Automation 
+AMZN earned 0.030377926363772335 on U.S. Recorded-Music Revenue Rises Amid Streaming S
+AIG earned 0.030197187635307064 on AIG Results Look Grim but Represent Progress
+AMZN earned 0.021914358030762523 on Tech-Oriented Companies Profit From Demand for Sel
+MRK earned 0.011836015944447727 on What to Know About Breakthrough Infections, Cases 
+WMT earned 0.005125978237987569 on Store Brands Could Make a Name for Themselves This
+CVX earned 0.0 on Trump Tweets Crush Oil Market as Prices Fall Nearl
+SLB earned 0.0 on Trump Tweets Crush Oil Market as Prices Fall Nearl
+JPM earned 0.0 on Facebook CEO to Testify at House Panel About Libra
+FMN earned 0.0 on Fed's Kashkari: Monetary Policy Has Been Too Tight
+ROKU earned 0.0 on Comcast Offers Web-Connected TV Service to Its Int
+XOM earned 0.0 on OPEC+ Didn't Need to Open the Spigots Yet
+PCG earned 0.0 on Bankruptcy Watchdog Takes Aim at PG&E CEO's Pay Pa
+CAR earned 0.0 on Hertz Misses Lease Payment, Prepares for Potential
+XOM earned 0.0 on Oil's 'Relief Rally' Stalls After Prices Double
+REM earned 0.0 on Gun Maker Remington Preps for Bankruptcy, Seeks Sa
+VZ earned 0.0 on Large Telecoms, State Enforcers Make Pact to Comba
+CMCSA earned 0.0 on Large Telecoms, State Enforcers Make Pact to Comba
+TWTR earned 0.0 on Twitter's Snapchat-Rival Fleets Feature Comes to F
+TGT earned 0.0 on U.S. Unemployment Hit 50-Year Low in September
+JPM earned 0.0 on Fed's Evans Says Trade Headwinds Could Justify Add
+JPM earned 0.0 on UniCredit to Pay $1.3 Billion to Settle Sanctions 
+CHKP earned 0.0 on Why the Hybrid Workplace Is a Cybersecurity Nightm
+MRNA earned 0.0 on WHO Recommends AstraZeneca Covid-19 Vaccine Agains
+F earned 0.0 on Hoping That Cars Will Last as Long as the Loan
+CMCSA earned -0.002496872667067489 on Comcast Offers Web-Connected TV Service to Its Int
+KALU earned -0.0191322870098458 on Aluminum Prices Push Toward 2020 High
+HSBC earned -0.02689793769662848 on HSBC's Loan Losses Hint at Tougher Times for Banks
+F earned -0.03355704697993659 on Car Sales Fell in the Second Quarter, Despite Deal
+GOOGL earned -0.04155403790971099 on Apple's Moves to Tighten Flow of User Data Leave A
+AAPL earned -0.04693236440693725 on Apple Music Gets Into the Muzak Business
+JPM earned -0.04876383673863025 on Auto Borrowing Rises as New Mortgage Loans Sag, Ne
+TXN earned -0.05435077993379709 on Global Chip Shortage Set to Worsen for Car Makers
+VZ earned -0.059922453295720504 on U.S. Internet Pricing Is All Over the Place. Help 
+JPM earned -0.06319832352068877 on Investment Banking Propels Citigroup's Profit
+WMT earned -0.09139097057215423 on As Companies Fret, Consumers Keep Spending
+NYT earned -0.12058362474382148 on Pulitzer Prizes Highlight Coverage Related to Floy
+KHC earned -0.15064778547741647 on Rupert Murdoch Buys $200 Million Montana Ranch Fro
+FB earned -0.151395869920703 on Facebook Widens Remote-Work Option
+AMZN earned -0.15726095518101482 on Fund to Let Retail Investors Bet on Early Tech Sta
+FB earned -0.16659262549978418 on Facebook's New Dating App: We're Not Feeling the L
+WMT earned -0.16942292668682646 on How Both the Company and Employee Benefit From Hig
+AMZN earned -0.17167534416464472 on Grinch Bots Steal Christmas Again
+BAC earned -0.17614937466968486 on Two Fed Doves Make Case for Central Bank Rate Cuts
+FB earned -0.17632019747862784 on YouTube to Remove Videos With Vaccine Misinformati
+FDX earned -0.18005732316741088 on Coronavirus Shifts Pricing Power to UPS and FedEx
+APO earned -0.19646365422392947 on Apollo's LifePoint in Talks to Buy Ardent Health S
+JRI earned -0.20028039254952956 on Fatburger Owner to Acquire Johnny Rockets for $25 
+AAPL earned -0.20449897750512025 on Apple Unveils Redesigned MacBook Pro, New AirPods
+VNQ earned -0.2165439584235169 on SEC Chairman Warns on Practices That Risk Teachers
+CMCSA earned -0.22381378692923032 on HBO Max: What We Know and Don't Know
+AAL earned -0.23080437680459528 on The Battle to Lure Back Premium Travelers Has Begu
+AMZN earned -0.23316784738111232 on Be Careful-These Stocks Have Weak Tickers
+PFE earned -0.23326335432698883 on New Alnylam Pharmaceuticals CFO Faces Competition 
+CSCO earned -0.23741690408369223 on Zoom Restored After Outage Brings Down Virtual Mee
+AMD earned -0.24009603841531837 on Global Chip Shortage Set to Worsen for Car Makers
+WMT earned -0.24497795198429753 on America's Cash Might Stay on the Sidelines
+AMZN earned -0.2459106750671706 on Charlie Munger: 'The Phone Is Not Ringing Off the 
+MCK earned -0.26640618062340055 on Judges Approve Settlement Between McKinsey and Jus
+TGT earned -0.2734136748902187 on Store Brands Could Make a Name for Themselves This
+DIS earned -0.27550739278171676 on Comcast Offers Web-Connected TV Service to Its Int
+YELP earned -0.28153153153167554 on Grubhub Has Some Finicky Investors
+BAC earned -0.30344409042627857 on FHFA to Propose Capital Rule for Fannie, Freddie i
+FB earned -0.3041362530413329 on Snap Says It Won't Promote Trump's Snapchat Accoun
+JNJ earned -0.30880561725306077 on Growth Is Worth Paying Up for at Pfizer
+BLK earned -0.31093065498456424 on Saba Can Nominate Slate to BlackRock Fund Boards, 
+YUM earned -0.3171582619727364 on Starbucks Steps Up Cafe Cleaning Due to Coronaviru
+SWN earned -0.32686859882323704 on Natural Gas Jumps on Colder Weather Forecasts
+MSFT earned -0.3273866651347983 on Corporate Tech in Line for its Pandemic Haircut
+GM earned -0.32786885245906766 on A Conclave of America's Top CEOs Talks Race and Ma
+BAC earned -0.33523298692584685 on UniCredit to Pay $1.3 Billion to Settle Sanctions 
+GIS earned -0.3394949719624386 on Two-Legged Customers Let Down General Mills
+SBUX earned -0.3554753886677655 on Starbucks Steps Up Cafe Cleaning Due to Coronaviru
+CMT earned -0.35971223021588355 on Cambridge Mobile Buys Rival as Telematics Helps Se
+TSLA earned -0.3662929853096878 on Tesla Boldly Goes Where No Auto Stock Has Gone Bef
+MSFT earned -0.3665322715004953 on Citrix Activist Could Clean Up on Messy Cloud Tran
+QCOM earned -0.3729116945108246 on A Recent College Graduate Starts His Engineering C
+AMZN earned -0.37425383507087934 on To Lower Costs, Wireless Networks such as Dish and
+GM earned -0.3791348600508206 on GM Turns to Google for in-Car Apps, Voice Commands
+DIS earned -0.38539695886748226 on Comcast's Profit Falls on Sky Costs, Erosion of Pa
+FCAU earned -0.39354584809136417 on U.S. Auto Makers Sweat Under Threat of Tariffs on 
+MSFT earned -0.39433731614020395 on Facebook Widens Remote-Work Option
+AAPL earned -0.39914848323585445 on Tech-Oriented Companies Profit From Demand for Sel
+GOOGL earned -0.40563212776347074 on Roku Drops YouTube TV App in Carriage Dispute
+AMZN earned -0.4123388642924613 on Google Refreshes Its E-Commerce Amid Ad Race With 
+INTU earned -0.41685312429658994 on If You Have a Side Hustle, You Should Make These T
+MCD earned -0.41723166788365756 on McDonald's to Pay $26 Million in Wage Suit
+FNF earned -0.4180602006688131 on SEC Chairman Warns on Practices That Risk Teachers
+PEP earned -0.42614186650142816 on Stagnant Waters Will Be Nestlé's Toughest Sell Yet
+DNKN earned -0.4302925989673141 on Starbucks Steps Up Cafe Cleaning Due to Coronaviru
+PG earned -0.4425475386132501 on All That Glitters Isn't Charmin
+FB earned -0.44474528680299175 on Be Careful-These Stocks Have Weak Tickers
+CG earned -0.46754619559685595 on TPG Appoints New President, Makes Other Management
+FCX earned -0.47968673519344246 on Gold Edges Up as Dollar Falls
+APO earned -0.486598675259975 on Apollo to Buy Majority Stake in Cox TV Stations
+UA earned -0.4909180166911149 on Under Armour's Never-Ending Story
+KMB earned -0.4932612329838514 on All That Glitters Isn't Charmin
+TSLA earned -0.5006436847374709 on Car Sales Fell in the Second Quarter, Despite Deal
+JPM earned -0.5044828892537516 on Walmart Looks to Hire Cryptocurrency Expert
+MSFT earned -0.5093872798720828 on Sen. Ron Wyden's Capital-Gains Tax Plan Devotes Tr
+AMZN earned -0.5137763371150847 on Facebook Takes Down China-Linked Hacking Campaign 
+V earned -0.514638609332133 on Facebook CEO to Testify at House Panel About Libra
+FB earned -0.5171522151353412 on Tech-Oriented Companies Profit From Demand for Sel
+WMT earned -0.5424832169255611 on Business Groups Withdraw Suit Challenging Health-P
+JPM earned -0.5425608873884942 on Overdraft Fees Are Getting the Boot at Ally Financ
+WMT earned -0.5444847020934518 on Illinois Governor to Sign Bill Raising Minimum Wag
+JPM earned -0.5519271456166688 on Demand for Fed Repos Remains Robust
+CCI earned -0.5555874089788722 on Elliott Pushes Crown Castle to Bolster Fiber Busin
+VLO earned -0.5582433941198574 on Why Hurricanes Can Take Gasoline Prices for a Wild
+CERN earned -0.5614823133070191 on Health Provider Gundersen Prioritizes AI Integrati
+GM earned -0.5702066999286107 on Driverless Cars Are 90% Here. Another Is 90% Left 
+TGT earned -0.5790164440669238 on How Both the Company and Employee Benefit From Hig
+AMZN earned -0.5835673505873684 on Coronavirus Finishes the Retail Reckoning That Ama
+F earned -0.5920663114269723 on Auto Borrowing Rises as New Mortgage Loans Sag, Ne
+XOM earned -0.594530321046255 on Shell Can Keep Doing Well by Doing Good
+XOM earned -0.599430540985944 on Commodities Fall Alongside Global Stocks With Coro
+NKE earned -0.6060606060605717 on StockX Is Latest $1 Billion Unicorn
+GBX earned -0.6093845216332457 on The Electrifying Stories Behind Rock's Most Famous
+BAC earned -0.610426077401992 on ECB Sticks With Easy-Money Policies to Counter Del
+JPM earned -0.6223681771232957 on Wells Fargo Gamed System in Investor Arbitration, 
+AAPL earned -0.6276807197405824 on Corporate Tech in Line for its Pandemic Haircut
+INTC earned -0.6353509254945389 on AMD Will Need to Keep Upping Its Game
+M earned -0.6361323155216149 on Kohl's Promotes Finance Veteran to CFO in Effort t
+JPM earned -0.659340659340595 on ECB Sticks With Easy-Money Policies to Counter Del
+AMZN earned -0.668972768693953 on Facebook Widens Remote-Work Option
+MRNA earned -0.6691449814126648 on Can the AstraZeneca Vaccine Cause Blood Clots? Wha
+DB earned -0.6761325219744126 on Europe's Banks Warn About Prospects
+MCD earned -0.684010661131598 on Black Ex-Franchise Owners Sue McDonald's Alleging 
+CTXS earned -0.6886374815544258 on Citrix, Spotify, Knightscope, Tesla: What to Watch
+GM earned -0.6942034015966531 on Car Companies' Profits Have Outrun the Chip Shorta
+MA earned -0.6985294117646975 on Facebook CEO to Testify at House Panel About Libra
+QCOM earned -0.710431654676292 on Broadcom Ordered by EU to Halt Allegedly Anticompe
+JNJ earned -0.7309252715614006 on Novavax Starts Late-Stage Trial of Covid-19 Vaccin
+AMZN earned -0.7443321297531975 on Comcast Launches Smart TV for U.S. Market in Bid t
+ORCL earned -0.7454342154304724 on CIOs Look Beyond Economic Expansion to Eventual Sl
+CVX earned -0.7486275162202912 on Oil to Slide Despite OPEC Cuts, Banks Predict
+CS earned -0.7686395080706985 on Tidjane Thiam's Ouster Raises More Questions at Cr
+INTU earned -0.7721399306650001 on Credit Karma in Talks to Sell Tax-Preparation Busi
+DIS earned -0.7722989261450552 on Disney Shareholders Support Company in Say-on-Pay 
+PLNT earned -0.778210116731547 on Planet Fitness Needs to Flatten More Curves
+ZM earned -0.7790290290290716 on The Overnight Business Boom That Took a Century
+ASML earned -0.791776635643751 on Chips' Biggest Political Pawn Still Has a Strong G
+JPM earned -0.798383221861933 on HSBC's Loan Losses Hint at Tougher Times for Banks
+WMT earned -0.8057881318919897 on U.S. Unemployment Hit 50-Year Low in September
+CVX earned -0.8133909842030811 on Oil Falls to Two-Week Low on Stronger Dollar
+STLD earned -0.8134490238612021 on Steel Group Urges Tariffs on Building Products
+AAL earned -0.8269571989433485 on Delta Says Air Travel Recovery Still Far Off Amid 
+AMAT earned -0.8324504313605663 on Despite Demand, Factories Still Aren't Humming
+DIS earned -0.835135306212743 on Disney Critics Are No Phantom Menace
+XOM earned -0.8361204013376262 on OPEC Defers Decision on Oil Output Reduction
+BA earned -0.8432398247033684 on Economic Growth in U.S. and Europe Slows
+FB earned -0.8434864104967518 on Twitter to Add Labels to Disputed Coronavirus Post
+SJM earned -0.8482077002508415 on Smucker CFO Weighs Additional Price Hikes if Infla
+BAC earned -0.8657630083078286 on Turkey Blocks Foreign Banks in Attempt to Stem Cur
+MMM earned -0.866793270352896 on Economic Growth in U.S. and Europe Slows
+GOF earned -0.87211050742808 on SEC Examines Guggenheim-Related Bond Trades
+UST earned -0.8878366380586309 on Europe's New Common Bonds Prove a Hit With Investo
+CRCM earned -0.8936550491510087 on Care.com CFO Resigns
+NUE earned -0.8955466905479071 on Steel Group Urges Tariffs on Building Products
+HSBC earned -0.9168303863786168 on Europe's Banks Warn About Prospects
+PRU earned -0.9448818897638154 on Prudential Affiliate Is Fined for Misstatements
+BEN earned -0.9578544061303498 on Franklin Resources to Buy Legg Mason for $4.5 Bill
+UA earned -0.9587727708532874 on Supreme Court Sides With Trademark Users In Bankru
+TSLA earned -0.9619024568850213 on Tesla Awaits Green Light for Production in Germany
+WMT earned -0.9657170449059446 on Consumer Confidence Fell in December
+TSLA earned -0.9684361549497195 on FP&L to Build World's Largest Solar-Powered Batter
+ADM earned -0.9871668311946261 on How to Get Rid of Carbon Emissions: Pay Farmers to
+FCAU earned -0.9884678747939896 on Fiat Chrysler Is Still the Winner in Merger With P
+GOOGL earned -1.014398148491617 on Google Refreshes Its E-Commerce Amid Ad Race With 
+MSFT earned -1.0147216425066474 on MacBook Pro Rights Wrongs by Fixing Awkward Keyboa
+GM earned -1.0202346539704519 on UAW Board Elects Fourth President in Three Years
+NLSN earned -1.0319917440660256 on Nielsen to Spin Off Global Connect Business
+CLGX earned -1.0381820279156007 on CoStar Group Submits Competing Offer to Buy CoreLo
+HSBC earned -1.0766838138533725 on Once a Lonely Bond Bull, HSBC's Steven Major Takes
+LM earned -1.0864197530864141 on Franklin Resources to Buy Legg Mason for $4.5 Bill
+SNE earned -1.0921073277890179 on Sony to Acquire Full Control of Financial Unit for
+ABB earned -1.0993037742763334 on Chinese Companies Win Billions in European Taxpaye
+BUD earned -1.11600215654946 on Budweiser's Owner Has a Troubling New Brew
+LMT earned -1.122882277068488 on U.A.E. Threatens to Pull Out of $23 Billion F-35, 
+KBH earned -1.12930547713154 on U.S. Home Sales Declined in November After Five Mo
+F earned -1.1364978155626133 on Interest-Rate Rises Could Come as Soon as Early '2
+JNJ earned -1.1438892233594085 on WHO Recommends AstraZeneca Covid-19 Vaccine Agains
+TSLA earned -1.192783658863975 on Car Companies' Profits Have Outrun the Chip Shorta
+AMTD earned -1.1945647304763072 on Robinhood Joins the Online Cash War
+HAL earned -1.2135922330096112 on Shale Drillers May Boost Spending, but Don't Expec
+APC earned -1.2244897959184138 on Occidental's Battle Has Just Begun
+NVS earned -1.2561356537260204 on Biogen Can Bounce Back from Multiple-Sclerosis Blo
+CVX earned -1.2709284627092967 on OPEC+ Didn't Need to Open the Spigots Yet
+JPM earned -1.2852093820285375 on The Fed Can't Do It All, Says Alan Blinder
+UAL earned -1.3175230566534164 on American Banks on Loyalty Program to Back Stimulus
+TGT earned -1.3261834746006445 on The Amazon Prime Day Deal That Walmart and Target 
+AAPL earned -1.3408038067891705 on Apple Launches New AirPods in Wearables Push
+GM earned -1.3562386980107004 on Tesla Boldly Goes Where No Auto Stock Has Gone Bef
+FB earned -1.365512441580398 on How to Bridge the Communications Gap in a Hybrid O
+CMCSA earned -1.3673655423883835 on U.S. Internet Pricing Is All Over the Place. Help 
+GS earned -1.370301009455129 on New York Fed Adds $102.14 Billion to Markets, Buys
+TXN earned -1.3752888106502366 on VW Finance Chief Expects Inflation to Ease and Chi
+INTC earned -1.3776634827333367 on Apple Unveils Redesigned MacBook Pro, New AirPods
+COST earned -1.3937349033955966 on All That Glitters Isn't Charmin
+JPM earned -1.4396256973186665 on Senators Pressure TD Bank to Pay Victims of Stanfo
+PANW earned -1.4730231941037675 on Why the Hybrid Workplace Is a Cybersecurity Nightm
+WMT earned -1.4831284331677133 on The Amazon Prime Day Deal That Walmart and Target 
+YUM earned -1.4942099364962051 on Delta Variant Threatens Restaurant Rebound
+GRUB earned -1.494704536307487 on Grubhub Generates Sales, Not Profit, During Pandem
+KO earned -1.4969145231257244 on Stagnant Waters Will Be Nestlé's Toughest Sell Yet
+JNJ earned -1.4994797723239155 on Can the AstraZeneca Vaccine Cause Blood Clots? Wha
+NEM earned -1.5191785564084614 on Gold Rises on Haven Demand, Weaker Dollar
+WMT earned -1.5326975476840785 on Consumer Sentiment Rose in Recent Weeks
+VTR earned -1.5347115645030398 on Home-Price Growth Hit Record in July
+TSLA earned -1.5352724979452301 on Tesla Quality Falls Short in J.D. Power Car Survey
+TXN earned -1.5358534083723443 on Despite Demand, Factories Still Aren't Humming
+AAPL earned -1.5492102065614195 on Roku Drops YouTube TV App in Carriage Dispute
+UPS earned -1.5503875968992311 on Coronavirus Kills Several FedEx Workers at Newark 
+LITE earned -1.5939579592268631 on Lumentum to Buy Laser Maker Coherent for $5.7 Bill
+AAPL earned -1.6067022436449252 on U.S. Recorded-Music Revenue Rises Amid Streaming S
+MRK earned -1.6138402943644696 on Some CEOs Suggest Dropping Degree Requirements in 
+IBM earned -1.6159647405854018 on Some CEOs Suggest Dropping Degree Requirements in 
+WMT earned -1.6387786786268563 on Supermarkets Ration Supplies as Coronavirus Fear E
+MCD earned -1.646134689394507 on Economy Notches 100th Straight Month of Increased 
+AMZN earned -1.6475238593402273 on Consumer Confidence Fell in December
+PFE earned -1.6664141796697383 on U.K. Bolsters Foreign-Takeover Defenses as Pandemi
+AMZN earned -1.6778298727395238 on Leading a Digital Overhaul? Here's Some Advice
+JPM earned -1.740823491860748 on U.S. Regulators Raise Concern With Stablecoin Digi
+AMZN earned -1.7453331309758688 on Amazon Seeks to Postpone Alabama Unionization Vote
+BLK earned -1.7721982117947845 on China Gives Neuberger Berman Nod to Launch Mutual 
+AAPL earned -1.8299706307165082 on Apple's iPhone 12: Sizing Up the 12, 12 Pro, 12 Pr
+OXY earned -1.8484288354897942 on A Top Occidental Executive Is Out as Company Grapp
+JPM earned -1.8857347838534777 on Turkey Blocks Foreign Banks in Attempt to Stem Cur
+FB earned -1.9006492617878268 on Fund to Let Retail Investors Bet on Early Tech Sta
+HSY earned -1.9046992759324843 on Home-Cooking Trend Is Mixed Bag for Spice Giant
+MS earned -1.9536019536020854 on Morgan Stanley CEO Recovered From Coronavirus
+AMZN earned -1.9717323603663592 on Economy Notches 100th Straight Month of Increased 
+AMZN earned -2.04749330185555 on Deliveroo Shares Plunge in London IPO
+AAL earned -2.0629190304280116 on Jobs Won't Look Great in September, Either
+CME earned -2.0783045562164943 on Fed's Evans: If Inflation Weakens, Fed May Have To
+NVDA earned -2.081891463355875 on Global Chip Shortage Set to Worsen for Car Makers
+GOOGL earned -2.0820978263672347 on YouTube Becomes Latest Tech Giant to Curb QAnon
+CMG earned -2.0946242464872507 on Delta Variant Threatens Restaurant Rebound
+NFLX earned -2.096976761709111 on People Confined for a Pandemic Can't Get Enough of
+BX earned -2.104893878266926 on Blackstone Adds Alphabet Finance Chief Porat to Bo
+AMZN earned -2.1252338634237553 on America's Cash Might Stay on the Sidelines
+XOM earned -2.1387065351467576 on Oil Falls to Two-Week Low on Stronger Dollar
+QCOM earned -2.1546748749519136 on Apple Unveils Redesigned MacBook Pro, New AirPods
+CI earned -2.1577484903522333 on Medicare Enrollment Can Be Confusing and Lead to U
+GM earned -2.185273159144931 on Inflation Cuts Both Ways for GM
+GOOGL earned -2.1954057475722473 on How to Last a Day Without Your Phone
+NKE earned -2.202649637800615 on Nike Scores Jersey Deal With EPL's Liverpool
+AVGO earned -2.2353422974541997 on Chip Makers Still Await Clearance to Sell to Huawe
+CVX earned -2.278893109061399 on Oil Prices Rise Amid Supply Cuts
+XOM earned -2.2831050228310015 on Oil to Slide Despite OPEC Cuts, Banks Predict
+VIAC earned -2.2839741149599817 on Discovery Revenue Falls as Covid-19 Pandemic Hits 
+ADM earned -2.289493767489275 on Food Exporters Resist China's New Coronavirus Rest
+NYT earned -2.311604253351826 on New York Times Columnist Nicholas Kristof Departs
+CARG earned -2.3130300693909898 on Floods Deal New Blow to Farm Belt
+MSFT earned -2.3483835578868053 on How to Bridge the Communications Gap in a Hybrid O
+AMD earned -2.3661827716314163 on Nvidia's Cryptocurrency Puzzle Gets Less Vexing
+XOM earned -2.3946415557071967 on Investors to Big Oil: Make It Rain
+AAPL earned -2.4035228045954686 on Star-Studded Coronavirus Panel Canceled After Flak
+MSFT earned -2.404724554766179 on Apple and Microsoft Are Dazzling Investors. That W
+INTC earned -2.4191380700653706 on Despite Demand, Factories Still Aren't Humming
+JPM earned -2.423547631258722 on New York Fed Adds $102.14 Billion to Markets, Buys
+GRUB earned -2.43905193148064 on Instacart Wants to Be an Influencer in Food Delive
+CVX earned -2.4433585073302204 on Oil's 'Relief Rally' Stalls After Prices Double
+GS earned -2.4567076987273295 on U.S. Regulators Raise Concern With Stablecoin Digi
+NOK earned -2.4691358024690833 on A Recent College Graduate Starts His Engineering C
+WMT earned -2.474088933466908 on Inflation Isn't Whipped, Just Tamer
+CVX earned -2.476198608205542 on Should Fossil-Fuel Companies Bear Responsibility f
+MDLZ earned -2.483348245352496 on Trump Makes a Cookie Great Again
+FB earned -2.5034188314299177 on States Prepare to File Own Antitrust Cases Against
+MCD earned -2.510861592281312 on Burger King and Popeyes Deliver Higher Sales for R
+Z earned -2.5139664804468245 on Home-Price Growth Slows Heading Into Spring
+GSKY earned -2.531645569620199 on McKinsey Partner Charged With Securities Fraud Ove
+VALE earned -2.5641025641025745 on Steel Ingredient Iron Ore Hits Nearly Five-Year Hi
+SQ earned -2.580547112461931 on If You Have a Side Hustle, You Should Make These T
+TUR earned -2.649006622516657 on Thanksgiving Dinner Staples Are Low in Stock
+FIS earned -2.6511134676565877 on Fidelity Cuts Online Trading Commissions to Zero
+HUM earned -2.66759452563215 on Medicare Enrollment Can Be Confusing and Lead to U
+AMZN earned -2.6743510366083285 on EU's Top Court Restricts Personal-Data Transfers t
+AZN earned -2.680501513186235 on Johnson & Johnson Posts Higher Quarterly Profit
+PFE earned -2.6971077708053457 on Pfizer to Acquire Arena Pharmaceuticals in $6.7 Bi
+WMT earned -2.7011397432823894 on Fed Survey Finds Big Deterioration in Consumer Vie
+CG earned -2.7041644131962967 on KKR Earnings Rise, as Private-Equity Portfolio Cli
+CVX earned -2.710945442222917 on U.S. Crude Posts Largest Decline in Nearly Three D
+RIO earned -2.715610075849857 on Brazil Dam Collapse Prompts Potential Rule Shakeup
+NWSA earned -2.726653033401442 on Rupert Murdoch Buys $200 Million Montana Ranch Fro
+BTI earned -2.751519382955908 on U.K. Companies Penalized for Failing to Pay Suppli
+DOW earned -2.756397733932439 on Consumer Sentiment Soured in First Half of Novembe
+AMTD earned -2.762430939226486 on Fidelity Cuts Online Trading Commissions to Zero
+PRU earned -2.7649769585252324 on Where to Check Up on the Health of Your Pension Pl
+PFE earned -2.778079037600152 on Can the AstraZeneca Vaccine Cause Blood Clots? Wha
+UBER earned -2.838561795357032 on Why Uber Is Shrinking Its Global Food-Delivery Men
+MCD earned -2.8884407869638733 on McDonald's Sales Fall Amid Changing Dining Habits
+BG earned -2.894076789504121 on Floods Deal New Blow to Farm Belt
+JBHT earned -2.900580116023267 on Freight Carrier NEMF Fighting Banks on Bankruptcy 
+JPM earned -2.9018600447171172 on SEC Joins List of Authorities Probing Money Launde
+XOM earned -2.9032475862533142 on Saudis and Russia Debate Response to Oil-Price Swo
+ROKU earned -2.908033129854139 on Comcast Launches Smart TV for U.S. Market in Bid t
+RIO earned -2.9308323563892857 on Copper Prices Rise on Trade Hopes
+FEYE earned -2.9798857710455557 on Colonial Pipeline Hack Shows Ransomware Emergence 
+NOC earned -3.020761334254939 on Boeing Loss Driven by Dreamliner, Space Problems
+DOW earned -3.0441400304413353 on Trump Tariffs Are Short-Term Pain Without Long-Ter
+AMZN earned -3.0546776461719434 on Microsoft to Close Its Retail Stores
+AMZN earned -3.1003643566484236 on What Amazon's Rise to No. 1 Says About the Stock M
+AMZN earned -3.14060240109284 on States Prepare to File Own Antitrust Cases Against
+WMT earned -3.147765086788329 on U.S. Consumer Dropped in June
+JNJ earned -3.161628136593114 on U.K. Bolsters Foreign-Takeover Defenses as Pandemi
+ZM earned -3.1864855912553467 on Verizon Buys Zoom Conferencing Rival BlueJeans
+C earned -3.229370272796766 on How Citigroup Could Stumble
+DAL earned -3.231774353728068 on Stocks to Watch: Delta, Cigna, Fastenal, Bed Bath 
+UPST earned -3.238737423345378 on Zillow, State Street, Valneva, Upstart: What to Wa
+ET earned -3.244120032441275 on Energy Transfer Blames EdgeMarc Creditors for Fail
+AAPL earned -3.2836078365298005 on How to Last a Day Without Your Phone
+TGNA earned -3.340757238307476 on Hedge Fund Nominates Four to Tegna's Board, Settin
+MSFT earned -3.3461162860944937 on What Amazon's Rise to No. 1 Says About the Stock M
+LLL earned -3.3474277660323772 on This Lawsuit Doesn't Smell Right
+MSFT earned -3.358042712562746 on How to Make Money Decisions When the Future Is Unc
+GPRE earned -3.3657442034404887 on Ethanol Prices Climb on Strong Fuel Demand
+ASA earned -3.397270731939951 on What You Need to Know About 'ISA' College Deals
+BA earned -3.4008023811577495 on What CEOs, CFOs Are Saying About Prospects of High
+BP earned -3.4073872154831673 on Spanish Energy Giant Repsol Writes Down Oil, Gas A
+SBUX earned -3.443708609271591 on Panera's Grocery Aisle? Electric Vans for Amazon? 
+XOM earned -3.4442270058708235 on Natural Gas Prices Fall on Putin Order for More Ru
+GM earned -3.457124254765142 on Auto Borrowing Rises as New Mortgage Loans Sag, Ne
+EBAY earned -3.4803648936109584 on EBay Names Walmart Executive as Its New CEO
+VLO earned -3.562637647363538 on Ethanol Prices Climb on Strong Fuel Demand
+PFE earned -3.5675082327113765 on Opioid Risk Smothers Drug Stocks
+BAC earned -3.5729753139887213 on Goldman's Long-Term Shift Remains Key
+AMZN earned -3.610663324147862 on Consumer Sentiment Rose in Recent Weeks
+SNAP earned -3.685956505713154 on Getting Over the Slump in Sports Betting
+TGT earned -3.6968576709797527 on U.S. Consumer Dropped in June
+NKE earned -3.7210418917297114 on Supreme Court Sides With Trademark Users In Bankru
+PYPL earned -3.7210950651191785 on Square's Future Needs to Take Shape
+BAC earned -3.769059448346856 on SEC Joins List of Authorities Probing Money Launde
+DIS earned -3.886947405207095 on Is an Oscar Campaign Worth the Time and Money?
+AAPL earned -3.9116828929068395 on Why We Seem to Damage Our Smartphones Just When a 
+FB earned -3.915146076378393 on Facebook Warned That It May Lose a Key Seal of App
+MCK earned -3.922641853676269 on McKinsey Partner Charged With Securities Fraud Ove
+AAPL earned -3.9697208338021364 on Apple and Microsoft Are Dazzling Investors. That W
+GOOGL earned -3.9750544579853804 on Google's Biggest Business Doesn't Click
+BABA earned -3.9923954372623736 on China Steps Up Antitrust Pressure on Internet Firm
+UBER earned -3.9963110974485874 on Uber Says Customer Discounts Won't Drive Long-Term
+RDFN earned -4.014481688545275 on Home-Price Growth Slows Heading Into Spring
+BHP earned -4.054419317055617 on Commodities Fall Alongside Global Stocks With Coro
+MMM earned -4.073107049608361 on U.S. Durable-Goods Orders Drop for First Time Sinc
+BIDU earned -4.073209145712268 on China Steps Up Antitrust Pressure on Internet Firm
+KBH earned -4.074702886247912 on For Home Builders, a Better Kind of Recession
+AAPL earned -4.12350761630299 on Consumer Sentiment Rose in Recent Weeks
+SCHW earned -4.123796423658937 on Fidelity Cuts Online Trading Commissions to Zero
+SPOT earned -4.149519401922334 on U.S. Recorded-Music Revenue Rises Amid Streaming S
+AGN earned -4.26045586877812 on Analyze This: Big Pharma Is Eager to Hire
+VSTO earned -4.2826552462527125 on Gun Maker Remington Preps for Bankruptcy, Seeks Sa
+DIS earned -4.334258914492239 on Disney Investors Could Look Goofy Soon
+INTC earned -4.382974578747471 on Chip Makers Still Await Clearance to Sell to Huawe
+WDAY earned -4.399077924201347 on Remote Work: How to Build and Maintain an Office C
+GS earned -4.399110509523332 on Fed's Evans: If Inflation Weakens, Fed May Have To
+AAPL earned -4.401039483611415 on Why Rufus Wainwright Stashes Headphones Around His
+RRC earned -4.405286343612241 on Natural Gas Jumps on Colder Weather Forecasts
+BG earned -4.444444444444477 on Farmers Swap Soybeans for Corn as Coronavirus Scra
+BA earned -4.457142604917041 on Boeing Lines Up Funding Options
+AMZN earned -4.584400762832701 on U.S. Consumer Dropped in June
+MAR earned -4.62443033452607 on Hotels Count on Road Trippers to Drive Visits
+SPOT earned -4.698728579325642 on Spotify Hits the Right Notes in Apple Complaint
+LLY earned -4.7642557393235 on Starboard Takes Elanco Stake, Nominates Three to I
+GCI earned -4.8543689320387315 on New York Times Columnist Nicholas Kristof Departs
+AMZN earned -4.942909551991806 on Corporate Tech in Line for its Pandemic Haircut
+SCHW earned -5.013673655423857 on SEC Chairman Warns on Practices That Risk Teachers
+CVX earned -5.025768911055735 on Occidental's Battle Has Just Begun
+F earned -5.090909090909111 on GM Makes the Most of a Bad Business
+VOYA earned -5.09580105992662 on Where to Check Up on the Health of Your Pension Pl
+TGT earned -5.1189739551105164 on Target Keeps Growing at Rivals' Expense
+F earned -5.1932035156278085 on Inflation Cuts Both Ways for GM
+BP earned -5.195447798119764 on Don't Take Stock in Oil's Rebound
+DAL earned -5.20272694653748 on Fed's Kashkari: Monetary Policy Has Been Too Tight
+LYFT earned -5.264406168092109 on Uber, Lyft to Provide Free Rides to Covid-19 Vacci
+BP earned -5.271317829457417 on Oil Demand to Exceed Pre-Covid Levels in 2022, IEA
+C earned -5.282062117050497 on HSBC's Loan Losses Hint at Tougher Times for Banks
+TWTR earned -5.386479935362126 on Facebook Removed Nearly 40% More Terrorist Content
+UBER earned -5.397236614853195 on Uber, Lyft to Provide Free Rides to Covid-19 Vacci
+F earned -5.446559297218205 on Volkswagen Warns of Uncertainty Ahead After Strong
+FAST earned -5.455156197514213 on Stocks to Watch: Delta, Cigna, Fastenal, Bed Bath 
+AMC earned -5.463367297428456 on AMC Finds the Right Price with WarnerMedia
+JNJ earned -5.469798657718106 on A Conclave of America's Top CEOs Talks Race and Ma
+AMZN earned -5.597231192144035 on Shopify's Business Sells Itself, for Now
+LULU earned -5.612025769506026 on Lululemon Names New CFO
+LMT earned -5.636750089809623 on Boeing Loss Driven by Dreamliner, Space Problems
+AMZN earned -5.637975885851155 on Berkshire Hathaway Will Host Annual Meeting in Per
+MET earned -5.673303361164645 on MetLife to Sell Unit to Zurich for Nearly $4 Billi
+C earned -5.686286371060418 on Investment Banking Propels Citigroup's Profit
+GM earned -5.700570057005846 on U.S. Auto Makers Sweat Under Threat of Tariffs on 
+COHR earned -5.702851425712931 on Lumentum to Buy Laser Maker Coherent for $5.7 Bill
+F earned -5.78457446808509 on UAW Board Elects Fourth President in Three Years
+AAPL earned -5.869642698030809 on Sen. Ron Wyden's Capital-Gains Tax Plan Devotes Tr
+DV earned -5.960459283756851 on How to Help Pay for College When Money Is Tight
+SPGI earned -5.988694240779211 on S&P Faces Potential SEC Lawsuit Over Volatility Ga
+HD earned -6.007866687406057 on Goodbye Honey-Do List, Hello Shared-Labor App
+MCD earned -6.030924268978851 on No Soda Fountains, More Cleaning: McDonald's Sets 
+GE earned -6.06187708470638 on GE Power Has a $92 Billion Backlog. For the New Bo
+FR earned -6.067000791348034 on Fed's Rosengren Says U.S. Economy Will Need More M
+GS earned -6.1170660530894185 on The Fed Can't Do It All, Says Alan Blinder
+NVDA earned -6.122667604687958 on Nvidia's Cryptocurrency Puzzle Gets Less Vexing
+FB earned -6.151639808280165 on YouTube Becomes Latest Tech Giant to Curb QAnon
+GM earned -6.202849958088928 on Volkswagen Warns of Uncertainty Ahead After Strong
+AMZN earned -6.355720840159753 on CIOs Look to Boost Tech Teams' Diversity
+CVX earned -6.367508497182025 on Investors to Big Oil: Make It Rain
+TEVA earned -6.419400855920104 on Opioid Risk Smothers Drug Stocks
+AMZN earned -6.580481263603328 on Walmart Scraps Plan to Have Robots Scan Shelves
+GM earned -6.641604010025077 on GM Leans on U.S. Truck Buyers to Counter Weakness 
+AAPL earned -6.677499772908472 on Amazon Rolls Out a Wellness Tracker That It Says C
+AMC earned -6.741573033707921 on AMC Delays Reopening Theaters to Late July
+TSLA earned -6.767318380309556 on Volkswagen Accelerates Investment in Electric Cars
+BIIB earned -6.82919384991042 on Biogen Can Bounce Back from Multiple-Sclerosis Blo
+KW earned -6.835269993164827 on Did You Mean to Be Green or to Buy That Kuwait Fun
+FB earned -6.9007379955910935 on Instagram's Plan for Kids Met With Hostile Respons
+HAS earned -6.953223767383023 on People Confined for a Pandemic Can't Get Enough of
+DISH earned -6.987895310294617 on To Lower Costs, Wireless Networks such as Dish and
+F earned -7.064641469445526 on Ford Recalls Mustang Mach-E Electric SUVs Over Win
+XOM earned -7.065217391304294 on Oil Demand to Exceed Pre-Covid Levels in 2022, IEA
+W earned -7.147797552787835 on Wayfair Posts Profit as Online Pandemic Shoppers S
+AAPL earned -7.3108118163555025 on Samsung's Galaxy S20 Ultra Has a 100X Zoom Camera.
+KMB earned -7.703212853161065 on How 400,000 Masks Were Shipped From China to a U.S
+MS earned -7.72200772200771 on Morgan Stanley Profit Rises Amid Wall Street Deal 
+TSLA earned -7.742912507531217 on U.S. Air Force Gives Lift to Flying Taxis
+SPWR earned -7.776049766718479 on FP&L to Build World's Largest Solar-Powered Batter
+XOM earned -7.797681770284606 on Don't Take Stock in Oil's Rebound
+WORK earned -7.961666756934892 on Slack Files EU Antitrust Complaint Against Microso
+CVX earned -8.032128514056275 on Don't Take Stock in Oil's Rebound
+AAPL earned -8.104298801973314 on Ex-HBO Boss and Apple Producer Plepler Looks to Hi
+VNQ earned -8.183462830446258 on SEC Acting Chairwoman Wants Fund Managers to Discl
+H earned -8.29431199638711 on Pandemic Pushes Hospitality Workers Into New Caree
+HAS earned -8.471793524660278 on Monopoly Maker Gets a Big Lift From Lockdown
+GOOGL earned -8.515032249375297 on Ex-Google Self-Driving Engineer Files for Bankrupt
+WKHS earned -8.578982154659581 on EV Company Workhorse's Finance, Operating Chiefs L
+GS earned -8.708444664185109 on Morgan Stanley CEO Recovered From Coronavirus
+NKE earned -8.846621696339678 on Fed Survey Finds Big Deterioration in Consumer Vie
+HD earned -8.915637073833445 on Fed Survey Finds Big Deterioration in Consumer Vie
+AAPL earned -9.003372049456802 on Facebook to Counter Apple Privacy Update With Its 
+GTS earned -9.267059814658756 on High-Speed Traders Back Exchanges in Fight With SE
+GPRO earned -9.422850412249714 on Peloton Spins to 'Born in the U.S.A.'
+BIDU earned -9.466226945156851 on Backlash Brews in China's Startup Culture Against 
+WBA earned -9.58869543275285 on Walgreens Sales Drop Off After Early Coronavirus S
+SCHW earned -9.666831194471868 on Where to Check Up on the Health of Your Pension Pl
+F earned -9.889333647280473 on Volvo Hit by Cyber Theft of Intellectual Property
+AAL earned -9.948979591836748 on A Conclave of America's Top CEOs Talks Race and Ma
+CHK earned -9.968847352024861 on Natural Gas Jumps on Colder Weather Forecasts
+GOOGL earned -9.979384764052254 on States Prepare to File Own Antitrust Cases Against
+GM earned -10.22364217252397 on Volvo Hit by Cyber Theft of Intellectual Property
+TWTR earned -10.421237384817934 on YouTube Becomes Latest Tech Giant to Curb QAnon
+HLT earned -10.964365811113824 on Pandemic Pushes Hospitality Workers Into New Caree
+BLK earned -11.017158392631856 on SEC Acting Chairwoman Wants Fund Managers to Discl
+FCAU earned -11.22448979591831 on Car Sales Fell in the Second Quarter, Despite Deal
+HAL earned -11.276268580215214 on OPEC Defers Decision on Oil Output Reduction
+NFLX earned -11.662738651667587 on Hulu Raises Price of Live TV Service, Cuts Cost of
+ADM earned -12.222853894258094 on Farmers Swap Soybeans for Corn as Coronavirus Scra
+WFC earned -12.27253491324599 on Big Banks Flash Warning Light
+SLB earned -12.355848434925747 on OPEC Defers Decision on Oil Output Reduction
+HAL earned -12.547593920995244 on Trump Tweets Crush Oil Market as Prices Fall Nearl
+AMZN earned -12.576310337873853 on Hulu Raises Price of Live TV Service, Cuts Cost of
+CVX earned -12.892192961885694 on Oil Prices Close Higher After Volatile Session
+BLK earned -12.894774487474534 on The Hollywood Drama That Cost a BlackRock Fund $75
+GPRO earned -13.164080865068225 on GoPro Can Avoid an Inventory Wipeout
+STT earned -13.310973692485172 on Zillow, State Street, Valneva, Upstart: What to Wa
+PTON earned -13.736263736263737 on Laid-Off Peloton Staffers Take to Social Media in 
+Z earned -13.91673546408766 on Zillow, State Street, Valneva, Upstart: What to Wa
+FB earned -13.95765916799869 on India Threatens Jail for Facebook, WhatsApp and Tw
+KSS earned -13.965276725049726 on Kohl's Should Reject Short-Sighted Activism
+TSM earned -14.3809920800333 on Delta, Virgin Galactic, KB Home, Taiwan Semiconduc
+XOM earned -14.699461504875433 on Oil Prices Close Higher After Volatile Session
+EA earned -15.053400786958807 on 'Fortnite' Worries Continue to Blow Away Game Make
+FSLR earned -15.3804882410802 on Will 'Green Energy' Produce More Jobs? Three Exper
+UBER earned -15.404781644222368 on Uber Jackpot: Inside One of the Greatest Startup I
+KBH earned -15.874641540352286 on Delta, Virgin Galactic, KB Home, Taiwan Semiconduc
+M earned -15.875327701718664 on List of Macy's Stores Set to Close
+SPOT earned -16.007091089212274 on Spotify's Fate Is in the Stars
+SEAS earned -16.251050714486006 on SeaWorld Settles Suits Claiming It Misled Investor
+CSGP earned -17.408607652510028 on CoStar Group Submits Competing Offer to Buy CoreLo
+GME earned -17.798040257694048 on Who Really Got Rich From the GameStop Revolution?
+ADT earned -19.356492757338852 on Apollo's LifePoint in Talks to Buy Ardent Health S
+BAC earned -19.428571428571487 on Big Banks Flash Warning Light
+CARG earned -19.562071058406033 on Farmers Swap Soybeans for Corn as Coronavirus Scra
+NVAX earned -19.72620131710546 on Novavax Starts Late-Stage Trial of Covid-19 Vaccin
+AAL earned -20.46929605591613 on Coronavirus Sparks Air Travel Nostalgia
+GM earned -20.47344849648103 on Honda Plans to Shut Down North American Plants for
+HLF earned -21.346830985915467 on Herbalife CFO Looks to Change Investor Views After
+GRUB earned -21.582671729375136 on America Is Stuck at Home, but Food-Delivery Compan
+BYND earned -21.889933713581033 on Beyond Meat, Sea, Simply Good Foods, GM: What to W
+SMPL earned -22.20053671627235 on Beyond Meat, Sea, Simply Good Foods, GM: What to W
+TSLA earned -22.523577018259694 on Citrix, Spotify, Knightscope, Tesla: What to Watch
+JPM earned -22.658071019088236 on Big Banks Flash Warning Light
+SNAP earned -24.393435757845406 on Goodbye Honey-Do List, Hello Shared-Labor App
+PTON earned -27.114345239892565 on Peloton Spins to 'Born in the U.S.A.'
+ELAN earned -28.544834005584804 on Starboard Takes Elanco Stake, Nominates Three to I
+UBER earned -28.645443196004987 on America Is Stuck at Home, but Food-Delivery Compan
+DAL earned -30.370370370370377 on U.K. Balks at Wholesale Airlines Bailout, Clouding
+AAL earned -31.024531024531004 on U.K. Balks at Wholesale Airlines Bailout, Clouding
+TWTR earned -31.076841382582415 on India Threatens Jail for Facebook, WhatsApp and Tw
+SE earned -31.435853865760496 on Beyond Meat, Sea, Simply Good Foods, GM: What to W
+BG earned -31.828078254468107 on Bunge May Sell Assets
+PLNT earned -33.140016570008164 on This Gym Chain Has Reason to Sweat
+JCP earned -44.69854469854483 on Coronavirus Finishes the Retail Reckoning That Ama
+SPWR earned -53.9096648858669 on Did You Mean to Be Green or to Buy That Kuwait Fun
+FAT earned -99.40633917651849 on Fatburger Owner to Acquire Johnny Rockets for $25 

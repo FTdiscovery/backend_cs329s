@@ -1,0 +1,1566 @@
+Summary:
+
+KKR earned 27.455529775715426 on Zero-Coupon Bond Index Nears Zero Bonds
+DENN earned 14.605161700004539 on Darden and Denny's Hit Sales Slump
+GM earned 12.987012987012951 on Nikola's Milton, Fool's Paradise Lost
+BA earned 10.260784313725424 on GE Warns of Weak First Quarter, Pulls Forecasts
+ROKU earned 9.992452311354295 on Robinhood Settles Claims It Didn't Ensure Best Pri
+AXP earned 9.070440656159699 on Credit-Card Applications Hit Pandemic High
+ULTA earned 7.082984073763612 on Ulta Beauty Undertakes Review of Its 1,254 Stores
+BBY earned 6.8145570537914875 on What Makes Bob Newhart Laugh?
+V earned 6.5340649291265365 on Credit-Card Applications Hit Pandemic High
+EA earned 5.799591880571435 on 'Apex Legends' Hits Bull's-Eye for Electronic Arts
+FCX earned 4.960317460317531 on Copper Prices Rise on Trade Hopes
+RRC earned 4.901960784313839 on Warm Winter Weather Prompts Lower Natural Gas Pric
+TM earned 4.687565395722616 on What Makes Bob Newhart Laugh?
+TD earned 4.135946772163352 on Profit Climbs at Canada's Major Banks
+AMZN earned 3.892784278779561 on U.S. Job Openings Ticked Up to 7.58 Million in Jan
+GOOGL earned 3.279848639293543 on Google's Costs Have Catching Up to Do
+MRNA earned 3.168661475000719 on Moderna's Covid-19 Vaccine Works Safely in Adolesc
+MMM earned 3.073924126555751 on U.S. Factory-Sector Growth Accelerated in January
+MCD earned 2.976512609589844 on U.S. Job Openings Ticked Up to 7.58 Million in Jan
+AMZN earned 2.819525490445352 on Google's Costs Have Catching Up to Do
+BYND earned 2.6176297362738414 on Beyond Meat's Pitch for More Customers: It's Not J
+KO earned 2.289758534554526 on SEC to Allow Businesses More Flexibility in Disclo
+EIX earned 2.0773302955170028 on PG&E Losses Widen as Fire Costs Rise
+INTC earned 1.9460621808082197 on Despite Demand, Factories Still Aren't Humming
+CENX earned 1.828153564899575 on Aluminum Prices Push Toward 2020 High
+WMT earned 1.7323274657724954 on Job Market Remains Tight Despite Omicron Concerns
+RY earned 1.5035627900894932 on Profit Climbs at Canada's Major Banks
+GSK earned 1.4998636487591959 on AstraZeneca-Oxford Vaccine Up to 90% Effective in 
+AAPL earned 1.4584855012119045 on Facebook to Pull Controversial Onavo App
+DHI earned 1.2719824828384567 on U.S. New Home Sales Rose in December
+NVDA earned 1.2577240662765339 on Test Your Knowledge of Artificial Intelligence
+F earned 1.1392405063291162 on Ford Needs a Deal More Than Cuts
+MSFT earned 1.0722295615840411 on AT&T to Sell Digital Ad Tech Platform Xandr to Mic
+AMZN earned 1.0608431023767617 on Job Market Remains Tight Despite Omicron Concerns
+XOM earned 1.0366991499067855 on Oil Demand Is Headed for Record Rebound in 2021
+VFC earned 1.03280087794169 on Skip the Traffic: Paddle to the Office Instead
+VLGEA earned 1.0202286719436773 on Fairway Files For Chapter 11, Proposing Sale to Vi
+BA earned 1.018275363095545 on Boeing Rebuked Over Tanker
+JNJ earned 1.008555331432022 on AstraZeneca-Oxford Vaccine Up to 90% Effective in 
+AAPL earned 0.9986172991242545 on Qualcomm CEO Steve Mollenkopf to Step Down
+MSFT earned 0.9255363904080727 on Test Your Knowledge of Artificial Intelligence
+AA earned 0.9099181073703173 on Aluminum Prices Push Toward 2020 High
+T earned 0.9072498987444749 on AT&T to Sell Digital Ad Tech Platform Xandr to Mic
+NFLX earned 0.8604507875601346 on Should Parents Try to Spend the Same Amount of Mon
+AMZN earned 0.8010656035471626 on Should Parents Try to Spend the Same Amount of Mon
+DVN earned 0.6475285991798216 on Warm Winter Weather Prompts Lower Natural Gas Pric
+LOW earned 0.5897385492431912 on U.S. Economy Gets Some Out-of-Season Cheer
+KBH earned 0.5656108597285282 on U.S. New-Home Sales Fell in April
+JNJ earned 0.5637165500547665 on Prepare to Lose a Bundle on Stocks Boosted by a Co
+MSFT earned 0.2890412090180575 on Sony Cracks Down on Sexually Explicit Content in G
+AMZN earned 0.2881210108244663 on Facebook Might Plug Gap Even Amazon Can't Fill
+HES earned 0.2854288568573715 on Crude-Oil Price Overhaul Hits Delay Amid Shipping-
+JPM earned 0.23626139961258502 on Consumer Watchdog Starts Hiring After Trump Cutbac
+NVDA earned 0.13029740382429544 on Nvidia's $40 Billion Deal to Buy Arm Faces U.K. Na
+WFC earned 0.11150758251550964 on Consumer Watchdog Starts Hiring After Trump Cutbac
+JPM earned 0.04414661350028347 on Yellen to Appoint Senior Fed Official to Run Top B
+QCOM earned 0.0 on Chip Stocks Are Back on the Menu
+INTC earned 0.0 on Chip Stocks Are Back on the Menu
+CAR earned 0.0 on Hertz Floats Bankruptcy Exit Led by Investor Group
+JPM earned 0.0 on SEC to Allow Businesses More Flexibility in Disclo
+TRV earned 0.0 on Florida Charges Guggenheim Insurance Chief for Rol
+I earned 0.0 on Intelsat Names New Finance Chief as It Awaits Key 
+BAC earned -0.004925792929505349 on Yellen to Appoint Senior Fed Official to Run Top B
+AMZN earned -0.23215142890310053 on Test Your Knowledge of Artificial Intelligence
+SNE earned -0.23360684801778778 on Sony Cracks Down on Sexually Explicit Content in G
+QCOM earned -0.2640264026402115 on Qualcomm CEO Steve Mollenkopf to Step Down
+WERN earned -0.3585514521334372 on Skip the Traffic: Paddle to the Office Instead
+GIS earned -0.38302988663691717 on General Mills Aims to Protect Coronavirus Sales Bo
+SNE earned -0.47073591715038493 on Sony to Acquire Full Control of Financial Unit for
+FCAU earned -0.49845608084050175 on Fiat Chrysler Settles Lawsuit Over Sales Reporting
+HSBC earned -0.5641218503196904 on Behind HSBC's Rare Foray Into Politics Over Hong K
+FCX earned -0.594883997620557 on New Coronavirus Concerns Drive Selloff in Raw Mate
+GOOGL earned -0.6734241223184239 on Google to Invest $13 Billion in U.S. Data Centers,
+LEN earned -0.6804043545878031 on U.S. New-Home Sales Fell in April
+PALL earned -0.7522078063209593 on Higher Emissions Standards Help Extend Booming Pal
+AMZN earned -0.7753605788469868 on Should Parents Involve Their Teenagers in Big Spen
+AA earned -0.8097165991902662 on New Coronavirus Concerns Drive Selloff in Raw Mate
+FB earned -0.8913237244288463 on Facebook Might Plug Gap Even Amazon Can't Fill
+RIO earned -0.8958958566776049 on Aluminum Prices Push Toward 2020 High
+AAPL earned -0.9211256591701038 on Should Parents Try to Spend the Same Amount of Mon
+AZN earned -1.0545006522684333 on EU Secures Coronavirus Vaccine Deal With AstraZene
+XOM earned -1.0810810810810196 on Investment in U.S. Shale Projects to Halve in 2020
+ARI earned -1.1698480355820666 on Hedge-Fund Pros Offer Their Investment Tips for 20
+PHM earned -1.2543116964565426 on U.S. New-Home Sales Fell in April
+DIS earned -1.2805358550038952 on The Covid-19 Days of Our Lives
+CMCSA earned -1.3677217663149723 on The Covid-19 Days of Our Lives
+BA earned -1.4054418709242187 on Consumer Watchdog Starts Hiring After Trump Cutbac
+F earned -1.4641288433381825 on SEC to Allow Businesses More Flexibility in Disclo
+FB earned -1.521240310077433 on Facebook to Pull Controversial Onavo App
+HD earned -1.541943346016931 on U.S. Economy Gets Some Out-of-Season Cheer
+MAT earned -1.707941929974496 on Mattel Plans Live-Action Barbie Film
+WBA earned -2.00479168676243 on Walgreens to Cut 4,000 Jobs in U.K. Boots Stores, 
+CHK earned -2.0703933747411565 on Hedge-Fund Pros Offer Their Investment Tips for 20
+SPAR earned -2.136181575434056 on Rival Spartan Race Poised to Revive Bankrupt Tough
+CVX earned -2.1620190610659225 on Oil Rises as Supply Concerns Outweigh Rising Stock
+VIAC earned -2.191180498493517 on The Covid-19 Days of Our Lives
+BA earned -2.3706000499643327 on Despite Demand, Factories Still Aren't Humming
+BA earned -2.378455793969481 on U.S. Factory-Sector Growth Accelerated in January
+DRI earned -2.479884095256716 on Darden and Denny's Hit Sales Slump
+CHK earned -2.5361399949277224 on Warm Winter Weather Prompts Lower Natural Gas Pric
+GILD earned -2.7149321266969357 on Prepare to Lose a Bundle on Stocks Boosted by a Co
+CMCSA earned -2.7554907204798074 on Fran Drescher Wins Presidency of SAG-AFTRA
+CVX earned -2.9661016949152663 on Oil Demand Is Headed for Record Rebound in 2021
+AAPL earned -3.1266681918706367 on Amazon and Apple Built Vast Wireless Networks Usin
+WMT earned -3.29780190677962 on Should Parents Involve Their Teenagers in Big Spen
+PCG earned -3.4589608705051655 on PG&E Losses Widen as Fire Costs Rise
+AMZN earned -3.5526091873875956 on Amazon and Apple Built Vast Wireless Networks Usin
+EL earned -3.9513978069742732 on Estée Lauder Reports Strong Sales Fueled by Asian 
+MPC earned -3.9909769217420936 on Crude-Oil Price Overhaul Hits Delay Amid Shipping-
+ATVI earned -4.01159047005783 on 'Apex Legends' Hits Bull's-Eye for Electronic Arts
+XOM earned -4.4207941056077935 on Crude-Oil Price Overhaul Hits Delay Amid Shipping-
+TSLA earned -4.600646775276216 on Investment in U.S. Shale Projects to Halve in 2020
+HSBC earned -5.1557022066405445 on Hong Kong Security Law Stuns International Busines
+HMC earned -5.291005291005264 on Honda Plans to Shut Down North American Plants for
+YUM earned -5.779770802192452 on Yum's Profit Pressured by Stake in Grubhub
+SLB earned -8.726410098913414 on Investment in U.S. Shale Projects to Halve in 2020
+GE earned -10.750013817498584 on GE Warns of Weak First Quarter, Pulls Forecasts
+RCL earned -12.688342585249854 on Overthinking Cruise Stocks Could End the Carnival
+FOXA earned -14.681440443213328 on Voting-Machine Company Dominion Sues Fox News Over
+TSLA earned -16.704789630553865 on Nikola's Milton, Fool's Paradise Lost
+F earned -37.97468354430381 on Honda Plans to Shut Down North American Plants for
+GM earned -40.26231605886109 on Honda Plans to Shut Down North American Plants for
+BWA earned -60.234085069940036 on Bridgewater Associates Performance Hit by Coronavi
+
+
+********************************************************
+
+News:
+Chip Stocks Are Back on the Menu
+The Philadelphia Semiconductor Index is up 12% from a year ago, yet a number of chip stocks haven't been faring as well. Apple Inc.'s new iPhone, sure to be a welcome present for kids and parents this holiday season, also could potentially be a gift for semiconductor stocks too.
+
+Prediction: 
+- Qualcomm Inc. (NASDAQ: QCOM) will increase because of the new iPhone release
+- Intel Corporation (NASDAQ: INTC) will increase because of the new iPhone release
+
+True Moves
+QCOM predicted to go up
+prices: [75.45, 75.45]
+INTC predicted to go up
+prices: [49.89, 49.89]
+
+********************************************************
+
+News:
+Darden and Denny's Hit Sales Slump
+Dining rooms remain closed amid restrictions to curb spread of Covid-19. Darden Restaurants Inc. and Denny's Corp. said their sales have plummeted in recent weeks, highlighting the threat casual restaurant chains face as their dining rooms remain closed amid restrictions meant to halt the spread of the new coronavirus.
+
+Prediction: 
+- Darden Restaurants Inc. (NYSE: DRI) will decrease because their sales have plummeted recently
+- Denny's Corp. (NYSE: DENN) will decrease because their sales have plummeted recently
+
+True Moves
+DRI predicted to go down
+prices: [60.3254, 60.475]
+DENN predicted to go down
+prices: [8.8188, 8.69]
+
+********************************************************
+
+News:
+U.S. Job Openings Ticked Up to 7.58 Million in January
+Rate of workers quitting jobs has held steady for eight straight months. The number of available jobs in the U.S. rose in January to a near-record level, showing employers have a strong demand for workers-but may be struggling to find employees.
+
+Prediction: 
+- McDonald's Corporation (NYSE: MCD) will increase because they are known for being a fast food chain with high turnover rates, so they will be able to fill more positions.
+- Amazon.com, Inc. (NASDAQ: AMZN) will increase because they are known for being a company with a high demand for workers.
+
+True Moves
+MCD predicted to go up
+prices: [184.78, 185.33]
+AMZN predicted to go up
+prices: [1705.72, 1712.36]
+
+********************************************************
+
+News:
+Mattel Plans Live-Action Barbie Film
+Toy company working with Warner Bros. to develop the film; Margot Robbie cast to play Barbie character. Mattel Inc. wants to return Barbie to the big screen and plans to create the first live-action feature film starring the character from its iconic toy franchise.
+
+Prediction: 
+- Mattel Inc. (NASDAQ: MAT) will increase because it is planning to make a live-action Barbie film.
+- Warner Bros. Entertainment Inc. (NYSE: TWX) will increase because it is working with Mattel to produce the film.
+- Margot Robbie (born 1990) will increase in popularity and may be cast in more live-action films.
+
+True Moves
+TWX predicted to go up
+prices: None
+MAT predicted to go up
+prices: [11.71, 11.69]
+
+********************************************************
+
+News:
+Hertz Floats Bankruptcy Exit Led by Investor Group
+After one of the largest Covid-19 debt defaults, the rental-car company wants to exploit favorable debt markets to exit bankruptcy by the end of the second quarter. Hertz Global Holdings Inc. proposed exiting bankruptcy by midyear under the control of new investors, buoyed by an expected rebound in travel and borrower-friendly credit markets.
+
+Prediction: 
+- Hertz Global Holdings Inc. (NYSE: HTZ) will increase because they are bouncing back from their bankruptcy and have new investors.
+- Avis Budget Group Inc. (NASDAQ: CAR) will decrease because Hertz will be taking some of their market share.
+
+True Moves
+HTZ predicted to go up
+prices: None
+CAR predicted to go down
+prices: [59.06, 59.06]
+
+********************************************************
+
+News:
+EU Secures Coronavirus Vaccine Deal With AstraZeneca
+Drugmaker to supply the bloc with up to 400 million doses of Covid-19 vaccine now in development. BRUSSELS-The European Union, seeking to catch up with other parts of the world for access to coronavirus treatments, agreed with AstraZeneca PLC to buy as many as 400 million doses of the U.K. drugmaker's Covid-19 vaccine now in development.
+
+Prediction: 
+- AstraZeneca plc (NYSE: AZN) will increase because the company has agreed to supply the bloc with up to 400 million doses of Covid-19 vaccine.
+- Roche Holding AG (OTCMKTS: RHHBY) will increase because the company has agreed to supply the bloc with up to 400 million doses of Covid-19 vaccine.
+
+True Moves
+AZN predicted to go up
+prices: [55.192, 55.1338]
+
+********************************************************
+
+News:
+U.S. New-Home Sales Fell in April
+Sales declined in all regions but the Northeast, with purchases in the Midwest and West notching the biggest monthly drops since December 2018. WASHINGTON-New-home sales in the U.S. declined in April, posting the largest monthly drop since the end of last year, but there are signs the market for new homes is brightening.
+
+Prediction: 
+- KB Home (NYSE: KBH) will increase because the market for new homes is brightening.
+- Lennar Corporation (NYSE: LEN) will increase because the market for new homes is brightening.
+- PulteGroup, Inc. (NYSE: PHM) will increase because the market for new homes is brightening.
+
+True Moves
+KBH predicted to go up
+prices: [26.52, 26.535]
+LEN predicted to go up
+prices: [51.44, 51.405]
+PHM predicted to go up
+prices: [31.89, 31.85]
+
+********************************************************
+
+News:
+Ford Needs a Deal More Than Cuts
+Selling its European operations to Volkswagen in a GM-style exit would be better than restructuring them. Europe is a big market for auto makers, but it's hard to build the scale necessary to make decent profits. The restructuring plan that Ford announced on Thursday may help a bit. A merger-the exit route taken by GM-would be better.
+
+Prediction: 
+- Ford Motor Company (NYSE: F) will decrease because it is selling its European operations to Volkswagen.
+- Volkswagen AG (OTCPK: VOW3) will increase because it is buying Ford's European operations.
+
+True Moves
+F predicted to go up
+prices: [8.69, 8.6999]
+
+********************************************************
+
+News:
+What Makes Bob Newhart Laugh?
+Still hitting the stage at 89, the comedy legend on noodling with jokes, forgiving Toyota and the enduring genius of 'Dr. Strangelove'. I drive a 2009 Lexus LS 460 L, which I didn't like at first because it's made by Toyota and I wasn't too happy with the way Toyota was dealing with the brake and floor-mat scandal. But the car drives so damn well, I've kind of forgiven them for it. I'll mostly drive to all the same places, like a computer store-a Best Buy or Staples or something-to see if there's anything new out there that I haven't heard of yet.
+
+Prediction: 
+- Toyota Motor Corp. (NYSE: TM) will increase because Bob Newhart has forgiven the company for the brake and floor-mat scandal.
+- Best Buy Co., Inc. (NYSE: BBY) will increase because Bob Newhart has forgiven the company for the brake and floor-mat scandal.
+
+True Moves
+TM predicted to go up
+prices: [119.465, 120.025]
+BBY predicted to go up
+prices: [68.97, 69.44]
+
+********************************************************
+
+News:
+China Evergrande Selloff Deepens as Concern Mounts Over Its Financial Health
+The property developer came under pressure for a second day, with its shares falling to a four-month low and its dollar bonds sinking to distressed levels. China Evergrande Group's bonds and shares came under a second day of heavy selling pressure on Friday, as investor concerns grew about the large property developer's financial health despite its attempt to calm such worries.
+
+Prediction: 
+- China Evergrande Group (HKG:3333) will continue to fall because investors are concerned about its financial health.
+- Sunac China Holdings Ltd. (HKG:1918) will increase because it is seen as a safer investment than China Evergrande Group.
+
+True Moves
+
+********************************************************
+
+News:
+Dentsu to Buy Marketing Shop MuteSix in a Bid for Startup Clients
+Agencies increasingly chase direct-to-consumer startups that are disrupting legacy brands. Dentsu Inc. has agreed to acquire the direct-to-consumer marketing agency MuteSix, as the agency holding company looks to forge new relationships with emerging brands.
+
+Prediction: 
+- Dentsu Inc. (Tokyo Stock Exchange: 4324) will increase because it is buying a marketing shop to get startup clients.
+- MuteSix will increase because it is being bought by an agency holding company.
+
+True Moves
+
+********************************************************
+
+News:
+SEC to Allow Businesses More Flexibility in Disclosing Risk, Legal Information
+In a 3-2 vote, the regulator approved key changes to Regulation S-K, the first significant modifications in over 30 years. The U.S. Securities and Exchange Commission on Wednesday voted to give companies more flexibility in disclosing risk factors and legal proceedings in their financial statements.
+
+Prediction: 
+- Coca-Cola Co. (NYSE: KO) will increase because businesses will have more flexibility in disclosing risk factors, which may be seen as a good sign for the company.
+- Ford Motor Co. (NYSE: F) will increase because businesses will have more flexibility in disclosing risk factors, which may be seen as a good sign for the company.
+- JPMorgan Chase & Co. (NYSE: JPM) will increase because businesses will have more flexibility in disclosing risk
+
+True Moves
+KO predicted to go up
+prices: [48.04, 48.15]
+F predicted to go up
+prices: [6.83, 6.82]
+JPM predicted to go up
+prices: [99.15, 99.15]
+
+********************************************************
+
+News:
+AstraZeneca-Oxford Vaccine Up to 90% Effective in Trials
+U.K. drugmaker hopes to have the two-dose shot available for use around year-end, pending regulatory approval. LONDON-AstraZeneca PLC and the University of Oxford added their vaccine candidate to a growing list of shots showing promising effectiveness against Covid-19-setting in motion disparate regulatory and distribution tracks that executives and researchers hope will result in the start of widespread vaccinations by the end of the year.
+
+Prediction: 
+- GlaxoSmithKline plc (NYSE: GSK) will increase because they are also working on a vaccine and will likely be able to distribute it sooner
+- Johnson & Johnson (NYSE: JNJ) will increase because they are also working on a vaccine and will likely be able to distribute it sooner
+
+True Moves
+GSK predicted to go up
+prices: [36.67, 36.725]
+JNJ predicted to go up
+prices: [143.77, 143.915]
+
+********************************************************
+
+News:
+ECB's Weidmann: Important Not to Waste Time in Normalizing Monetary Policy
+The warning stands at odds with recent comments by ECB president Mario Draghi. FRANKFURT-German central-bank President Jens Weidmann called on the European Central Bank to press ahead with plans to phase out ultralow interest rates, warning that the ECB currently has little room to deal with any new economic downturn.
+
+Prediction: 
+- European Central Bank (ECB) will decrease because they are phasing out ultralow interest rates
+- The Bank of Japan (BOJ) will increase because they have room to deal with any new economic downturn
+
+True Moves
+ECB predicted to go down
+prices: None
+BOJ predicted to go up
+prices: None
+
+********************************************************
+
+News:
+Fran Drescher Wins Presidency of SAG-AFTRA
+A newcomer to union politics, Ms. Drescher beat actor Matthew Modine. Former sitcom star Fran Drescher defeated actor Matthew Modine in a close race to become president of SAG-AFTRA, the powerful Hollywood union that represents performers in contract negotiations with movie and television production companies.
+
+Prediction: 
+- CBS Corporation (NYSE: CBS) will increase because Fran Drescher is a former sitcom star and so may bring more attention to the company.
+- Comcast Corporation (NASDAQ: CMCSA) will increase because Fran Drescher is a former sitcom star and so may bring more attention to the company.
+
+True Moves
+CBS predicted to go up
+prices: None
+CMCSA predicted to go up
+prices: [61.695, 61.525]
+
+********************************************************
+
+News:
+Nikola's Milton, Fool's Paradise Lost
+Electric vehicles and SPACs have drawn credulous investors for some time, but the trigger for bursting of the bubble might have been when GM became the greater fool and validated Nikola chief Trevor Milton. Is it all downhill from here?
+
+Prediction: 
+- Tesla, Inc. (TSLA) will continue to fall because the market has realized that Nikola is a better investment
+- General Motors Company (GM) will continue to rise because the market has realized that Nikola is a better investment
+
+True Moves
+TSLA predicted to go down
+prices: [432.81, 440.04]
+GM predicted to go up
+prices: [29.26, 29.64]
+
+********************************************************
+
+News:
+Test Your Knowledge of Artificial Intelligence
+Do you know the difference between AI and machine learning? Which sector spends the most on AI?. Global spending on artificial intelligence is rising and shows no sign of slowing down. Organizations are expected to invest $35.8 billion in AI systems this year, up 44% over last year, according to International Data Corp. And AI spending is projected to more than double to $79.2 billion by 2022.
+
+Prediction: 
+- Nvidia Corporation (NASDAQ: NVDA) will increase because of the rising demand for AI systems.
+- Amazon.com, Inc. (NASDAQ: AMZN) will increase because of the rising demand for AI systems.
+- Microsoft Corporation (NASDAQ: MSFT) will increase because of the rising demand for AI systems.
+
+True Moves
+NVDA predicted to go up
+prices: [182.87, 183.1]
+AMZN predicted to go up
+prices: [1813.4715, 1813.0505]
+MSFT predicted to go up
+prices: [118.85, 118.96]
+
+********************************************************
+
+News:
+Deutsche Telekom's Deal With SoftBank Tightens Grip on T-Mobile
+Share swap deal will give Japanese investor a stake in German company. Deutsche Telekom AG is speeding up its efforts to retake a majority stake in T-Mobile US Inc. through a complex transaction with SoftBank Group Corp.
+
+Prediction: 
+- Deutsche Telekom AG (ETR: DTE) will increase because it is speeding up its efforts to retake a majority stake in T-Mobile US Inc.
+- SoftBank Group Corp. (TSE: 9434) will increase because it is getting a stake in Deutsche Telekom AG
+
+True Moves
+
+********************************************************
+
+News:
+New Coronavirus Concerns Drive Selloff in Raw Materials
+Summer rally starting to show cracks with commodities among market's worst performers during this week's bout of selling. The threat of new coronavirus lockdown measures around the world dragged down raw materials prices Wednesday, heightening concerns among traders that investments tied to the global economy are set for another painful selloff.
+
+Prediction: 
+- Alcoa Corporation (NYSE: AA) will decrease because of the selloff in raw materials
+- Freeport-McMoRan Inc. (NYSE: FCX) will decrease because of the selloff in raw materials
+- Rio Tinto plc (NYSE: RIO) will decrease because of the selloff in raw materials
+
+True Moves
+AA predicted to go down
+prices: [12.35, 12.36]
+FCX predicted to go down
+prices: [16.81, 16.82]
+RIO predicted to go down
+prices: None
+
+********************************************************
+
+News:
+What Business Is Essential? Many Companies Want to Join That List
+Coronavirus lockdowns prompt calls to allow factories, repair shops, newspaper presses to keep operating. From steelmakers to arts-and-crafts retailers, dozens of companies across the U.S. are arguing that their operations are essential, raising questions over how to preserve as much economic activity as possible while working to contain the coronavirus.
+
+Prediction: 
+- Steelmakers will increase because their factories are deemed essential to the economy.
+- Arts-and-crafts retailers will decrease because their shops are not deemed essential to the economy.
+
+True Moves
+
+********************************************************
+
+News:
+Honda Plans to Shut Down North American Plants for Six Days Due to Virus Concerns, Demand Decline
+Honda says temporary closures will start Monday, and workers will be paid; cut production by 40,000 vehicles. Honda Motor Co. said Wednesday it will temporarily close about a dozen factories in the U.S., Canada and Mexico for six days to respond to concerns about the rapidly spreading virus and in anticipation of lower consumer demand.
+
+Prediction: 
+- Honda Motor Co. (NYSE: HMC) will decrease because of the six day plant closures.
+- Ford Motor Co. (NYSE: F) will decrease because of the six day plant closures.
+- General Motors Co. (NYSE: GM) will decrease because of the six day plant closures.
+
+True Moves
+HMC predicted to go down
+prices: [20.79, 20.9]
+F predicted to go down
+prices: [4.345, 4.51]
+GM predicted to go down
+prices: [15.63, 16.2593]
+
+********************************************************
+
+News:
+Rival Spartan Race Poised to Revive Bankrupt Tough Mudder
+A bankruptcy trustee is moving quickly to close a sale before the business goes from distressed to defunct. Tough Mudder's bankruptcy trustee is racing to save the company's endurance event business with a sale to rival Spartan Race Inc., a deal that the company's owners previously balked at closing.
+
+Prediction: 
+- Tough Mudder, Inc. (private) will increase because Spartan Race is interested in buying the company
+- Spartan Race, Inc. (NYSE: SPAR) will increase because they are buying a competitor
+
+True Moves
+SPAR predicted to go up
+prices: [18.725, 18.685]
+
+********************************************************
+
+News:
+Nasdaq Overtakes NYSE in Coronavirus-Era IPOs
+Pandemic curtails activity, reins in celebrations of corporate debuts on NYSE's historic trading floor. Nasdaq Inc. has edged past the New York Stock Exchange in initial public offerings this year as the coronavirus pandemic has curtailed activity and reined in celebrations of corporate debuts on the NYSE's historic trading floor.
+
+Prediction: 
+- Nasdaq Inc. (Nasdaq: NDAQ) will continue to increase because it is the leading stock exchange for IPOs during the coronavirus pandemic.
+- The New York Stock Exchange (NYSE: NYX) will decrease because it is no longer the leading stock exchange for IPOs during the coronavirus pandemic.
+
+True Moves
+NYX predicted to go down
+prices: None
+
+********************************************************
+
+News:
+Dollar Ticks Lower After Powell Testimony
+Fed chairman affirms the central bank's decision to pause its monetary tightening. The dollar edged lower Tuesday as Federal Reserve Chairman Jerome Powell affirmed the central bank's decision to pause its monetary policy tightening while officials gauge the impact of weaker global growth and rocky financial markets on the U.S. economy.
+
+Prediction: 
+- The dollar will continue to decline because the Fed is pausing its monetary tightening.
+- The dollar will continue to decline because of weaker global growth and rocky financial markets.
+
+True Moves
+
+********************************************************
+
+News:
+Kenneth Irving Is Shopping His 483-Acre Maine Retreat for $10 Million
+The former oil exec's property includes 7,700 feet of lake frontage, a 6,500-square-foot main house and a 250-square-foot cabin. In a tiny town in Maine, a member of one of Canada's richest families spent two decades creating a retreat complete with a suspension bridge to a swimming spot and a summer camp-like latrine for guests. Now he's putting the place on the market for $10 million.
+
+Prediction: 
+- Irving Oil Ltd. (TSE: IOL) will increase because Kenneth Irving, one of the company's owners, is selling a property for a large sum of money.
+- Cenovus Energy Inc. (TSE: CVE) will decrease because Kenneth Irving, one of the company's owners, is selling a property for a large sum of money.
+
+True Moves
+
+********************************************************
+
+News:
+Profit Climbs at Canada's Major Banks
+At Royal Bank of Canada, banking, capital markets, wealth management help drive earnings; TD's revenue rises 7.9%. Royal Bank of Canada and TD Bank Group , two of Canada's largest banking entities, separately reported rises in profit in the latest quarter.
+
+Prediction: 
+- Royal Bank of Canada (NYSE: RY) will increase because their profit has risen
+- TD Bank Group (NYSE: TD) will increase because their profit has risen
+
+True Moves
+RY predicted to go up
+prices: [76.485, 76.6]
+TD predicted to go up
+prices: [55.61, 55.84]
+
+********************************************************
+
+News:
+Oil Demand Is Headed for Record Rebound in 2021
+IEA forecasts demand in 2021 will rebound by a record 5.7 million barrels a day. The coronavirus pandemic will hammer global growth and oil demand this year, but supply cuts from producers and a record rebound in demand next year will help to rebalance the oil market, the International Energy Agency said.
+
+Prediction: 
+- Chevron Corporation (NYSE: CVX) will increase because of the rebound in oil demand
+- Exxon Mobil Corporation (NYSE: XOM) will increase because of the rebound in oil demand
+
+True Moves
+CVX predicted to go up
+prices: [94.4, 94.12]
+XOM predicted to go up
+prices: [48.23, 48.28]
+
+********************************************************
+
+News:
+Sony to Acquire Full Control of Financial Unit for $3.7 Billion
+Move highlights conglomerate's strategy of keeping a diverse portfolio of businesses, rebuffing criticism by activist hedge fund. TOKYO- Sony Corp. said it would spend $3.7 billion to take full control of its banking and insurance unit, calling the Japan-centered business a hedge against uncertainty caused by the new coronavirus and global tensions.
+
+Prediction: 
+- Sony Corp. (NYSE: SNE) will increase because it is diversifying its business and preparing for global tensions.
+- Mitsubishi UFJ Financial Group, Inc. (NYSE: MTU) will decrease because it is selling its stake in Sony's banking and insurance unit.
+
+True Moves
+SNE predicted to go up
+prices: [63.73, 63.7]
+MTU predicted to go down
+prices: None
+
+********************************************************
+
+News:
+Consumer Watchdog Starts Hiring After Trump Cutbacks
+CFPB chief lifts hiring freeze, as regulator seeks to fill senior positions for enforcement, other areas. WASHINGTON-The Consumer Financial Protection Bureau is looking for workers again, following departures during a hiring freeze and budget cuts by Trump administration officials that took over the agency in late 2017.
+
+Prediction: 
+- Wells Fargo & Company (NYSE: WFC) will increase because the CFPB is hiring more people, which may lead to more enforcement against the company.
+- JPMorgan Chase & Co. (NYSE: JPM) will increase because the CFPB is hiring more people, which may lead to more enforcement against the company.
+- The Boeing Company (NYSE: BA) will increase because the CFPB is hiring more people, which may lead to more enforcement
+
+True Moves
+WFC predicted to go up
+prices: [44.84, 44.845]
+JPM predicted to go up
+prices: [105.815, 105.84]
+BA predicted to go up
+prices: [355.76, 355.26]
+
+********************************************************
+
+News:
+Should Parents Involve Their Teenagers in Big Spending Decisions?
+One adviser says if done right, involving teens can be empowering and educational. Another says it's wrong to let kids think they have control.. Big financial decisions typically affect every member of a family in some way. But does that mean everyone in the family should have at least some say in how the money is spent? That can be an especially difficult question when it comes to teenagers.
+
+Prediction: 
+- Walmart Inc. (NYSE: WMT) will increase because parents will want to involve their children in big spending decisions to teach them about money.
+- Amazon.com, Inc. (NASDAQ: AMZN) will increase because parents will want to involve their children in big spending decisions to teach them about money.
+
+True Moves
+WMT predicted to go up
+prices: [151.04, 150.5419]
+AMZN predicted to go up
+prices: [3123.45, 3121.0282]
+
+********************************************************
+
+News:
+Moderna's Covid-19 Vaccine Works Safely in Adolescents, Company Says
+Based on study results, Moderna plans to ask health regulators in the U.S. and other countries early next month to expand shot's use to 12- to 17-year-olds. Moderna Inc. said its Covid-19 vaccine was effective in children age 12 to 17 in a new study, a finding that could clear the way for a second shot for use in adolescents.
+
+Prediction: 
+- Moderna Inc. (NASDAQ: MRNA) will increase because the company announced that their Covid-19 vaccine was effective in children age 12 to 17.
+
+True Moves
+MRNA predicted to go up
+prices: [168.4623, 168.9961]
+
+********************************************************
+
+News:
+Trade Skepticism Further Fuels Investors' Push Into Cash, Treasurys
+Survey shows many investors view U.S.-China trade war as biggest risk to the market. Fund managers around the world have crammed into U.S. Treasurys and moved more of their assets into cash in October, more defensive positions as many continued to harbor reservations about the U.S. reaching a trade pact with China.
+
+Prediction: 
+- The market will continue to be volatile as investors weigh the risks of the US-China trade war.
+- The market will rebound as investors become more confident that the US will reach a trade pact with China.
+- The market will continue to be volatile as investors weigh the risks of the US-China trade war and the possibility of a recession.
+
+True Moves
+
+********************************************************
+
+News:
+Prosecutors Accuse OneCoin Leader, Founder of Operating 'Pyramid Scheme'
+The company has claimed to have more than three million members world-wide, according to prosecutors. Federal prosecutors in Manhattan unsealed charges against the leaders of cryptocurrency company OneCoin Ltd., accusing them of operating a world-wide pyramid scheme and defrauding investors of billions of dollars.
+
+Prediction: 
+- OneCoin Ltd. (OTC: ONCY) will decrease because of the pyramid scheme allegations
+- Bitcoin (BTC) will decrease because of the pyramid scheme allegations
+
+True Moves
+BTC predicted to go down
+prices: None
+
+********************************************************
+
+News:
+Prepare to Lose a Bundle on Stocks Boosted by a Coronavirus Vaccine
+For investors, there is no safety in betting on Covid-19 vaccine candidates. A Covid-19 vaccine success could boost economic output by trillions of dollars. Those trading vaccine stocks shouldn't expect to share much in the benefits.
+
+Prediction: 
+- Gilead Sciences, Inc. (NASDAQ: GILD) will decrease because the market expects a Covid-19 vaccine to be successful, and Gilead Sciences will not share in the benefits.
+- Johnson & Johnson (NYSE: JNJ) will decrease because the market expects a Covid-19 vaccine to be successful, and Johnson & Johnson will not share in the benefits.
+- Pfizer, Inc. (NYSE: PFE) will
+
+True Moves
+JNJ predicted to go down
+prices: [150.785, 150.7]
+PFE predicted to go None
+prices: [36.8101, 36.81]
+GILD predicted to go down
+prices: [77.35, 77.56]
+
+********************************************************
+
+News:
+Gold Reverses Losses After Fed Decision
+Central bank holds benchmark interest rate steady. Gold prices reversed losses in electronic trading Wednesday, after a dovish monetary-policy statement from the Federal Reserve.
+
+Prediction: 
+- Gold prices will continue to rise because the Fed is keeping the interest rate steady, indicating that they do not foresee any major economic changes in the near future.
+- The dollar will continue to fall because the Fed is keeping the interest rate steady, indicating that they do not foresee any major economic changes in the near future.
+
+True Moves
+
+********************************************************
+
+News:
+Estée Lauder Reports Strong Sales Fueled by Asian Shoppers
+Cosmetics company said sales will rise as much as 8% next year, sending shares to an all-time high. Estée Lauder Cos. projected strong growth in 2020 after the company reported sales increases in Asia and higher demand for its premium skin care brands, sending shares of the company to an all-time high.
+
+Prediction: 
+- Estée Lauder (NYSE: EL) will continue to increase because of the strong sales in Asia.
+- LVMH Moët Hennessy Louis Vuitton SE (OTCMKTS: LVMHF) will also continue to increase because of the strong sales in Asia.
+
+True Moves
+EL predicted to go up
+prices: [202.46, 201.66]
+
+********************************************************
+
+News:
+U.S. Factory-Sector Growth Accelerated in January
+Demand and output overrode uncertainty surrounding partial government shutdown. WASHINGTON-Growth picked up for U.S. manufacturers in January, a sign strong factory-sector demand and output overrode uncertainty surrounding the partial government shutdown in the first month of the year.
+
+Prediction: 
+- The Boeing Company (NYSE: BA) will increase because the factory sector is growing and Boeing is a major player in the aerospace industry.
+- 3M Company (NYSE: MMM) will increase because the factory sector is growing and 3M is a major player in the manufacturing industry.
+
+True Moves
+BA predicted to go up
+prices: [391.01, 390.08]
+MMM predicted to go up
+prices: [200.07, 200.685]
+
+********************************************************
+
+News:
+Bundesbank President Urges ECB Not to Question Bond-Buying Limits
+The ECB last month unveiled a large stimulus package aimed at shoring up the wobbling eurozone economy. The head of Germany's influential Bundesbank has warned European Central Bank officials not to question limits on the ECB's bond-buying program, suggesting that a long-running dispute over its easy-money policies will rumble into the term of its incoming President Christine Lagarde.
+
+Prediction: 
+- The European Central Bank (ECB) will decrease because the Bundesbank President is warning them not to go too far with their stimulus package.
+- Christine Lagarde will increase because she is taking over for Mario Draghi and is more likely to be sympathetic to the Bundesbank President's warnings.
+
+True Moves
+ECB predicted to go up
+prices: None
+
+********************************************************
+
+News:
+Nvidia's $40 Billion Deal to Buy Arm Faces U.K. National-Security Probe
+Proposed acquisition of chip designer from SoftBank is already undergoing antitrust review. LONDON-The U.K. government is starting a national-security review of Nvidia Corp.'s $40 billion deal to buy British chip designer Arm from SoftBank Group Corp. , raising a new hurdle for an industry-reshaping proposal facing significant regulatory scrutiny around the world.
+
+Prediction: 
+- Nvidia Corporation (NASDAQ: NVDA) will decrease because of the national-security review
+- Arm Holdings plc (LON: ARM) will decrease because of the national-security review
+
+True Moves
+NVDA predicted to go down
+prices: [613.98, 613.9]
+
+********************************************************
+
+News:
+Despite Demand, Factories Still Aren't Humming
+Constraints from chip shortages to a tight labor market are holding back a manufacturing boom. Factory production is having a hard time shifting into higher gear. This isn't because manufacturers don't want to turn their wheels any faster, but because for now they can't.
+
+Prediction: 
+- Intel Corporation (NASDAQ: INTC) will decrease because of the chip shortages
+- The Boeing Company (NYSE: BA) will increase because of the increase in factory production
+
+True Moves
+BA predicted to go up
+prices: [221.7582, 221.2325]
+INTC predicted to go down
+prices: [55.805, 55.6964]
+
+********************************************************
+
+News:
+CFRA Agrees to Buy ETF Data Provider First Bridge
+Deal is meant to help CFRA better compete against Morningstar and others. CFRA LLC, a New York-based investment-research firm, has agreed to acquire data-and-analytics firm First Bridge Data LLC.
+
+Prediction: 
+- CFRA (NYSE: CFRA) will increase because it is acquiring a data-and-analytics firm that will help it better compete against its rivals.
+
+True Moves
+CFRA predicted to go up
+prices: None
+
+********************************************************
+
+News:
+Hedge-Fund Pros Offer Their Investment Tips for 2019
+Among the suggestions: natural gas and Turkish banks, not leveraged loans. With interest rates rising and stock prices falling, 2019 is setting up to be one of the most challenging environments investors have faced in some time.
+
+Prediction: 
+- Chesapeake Energy Corporation (NYSE: CHK) will increase because it is a natural gas company and investors will see this as a safer investment in a more challenging environment.
+- Turkiye Garanti Bankasi A.S. (OTCMKTS: TKGBY) will increase because Turkish banks are seen as a safer investment in a more challenging environment.
+- Apollo Commercial Real Estate Finance, Inc. (NYSE: ARI) will decrease
+
+True Moves
+CHK predicted to go up
+prices: [2.415, 2.41]
+ARI predicted to go down
+prices: [17.2672, 17.2874]
+
+********************************************************
+
+News:
+The Covid-19 Days of Our Lives
+Daytime TV is attracting more and wealthier viewers because of the coronavirus pandemic. Count daytime television as one of the pandemic's winners. The audience for work-hours TV has shifted, however.
+
+Prediction: 
+- Comcast Corporation (NASDAQ: CMCSA) will increase because more people are staying at home and watching TV.
+- Disney (NYSE: DIS) will increase because more people are staying at home and watching TV.
+- ViacomCBS Corporation (NASDAQ: VIAC) will increase because more people are staying at home and watching TV.
+
+True Moves
+DIS predicted to go up
+prices: [152.28, 152.085]
+CMCSA predicted to go up
+prices: [51.18, 51.11]
+VIAC predicted to go up
+prices: [36.51, 36.43]
+
+********************************************************
+
+News:
+Biden's Economics Team's Views, in Their Own Words
+President-elect's picks for top economic-policy jobs have focused on inequality, education and climate. WASHINGTON-President-elect Joe Biden is introducing his economic-policy team this week, drawing on veterans of the Obama administration and progressive think tanks. Their past views on inequality, labor economics, education and budget deficits offer a guide to how they could shape the administration's policies.
+
+Prediction: 
+- The Biden administration will focus on reducing inequality and improving education, which will benefit the stock prices of companies such as Walmart Inc. (NYSE: WMT) and The Walt Disney Company (NYSE: DIS).
+- The Biden administration will focus on reducing the budget deficit, which will negatively impact the stock prices of companies such as Lockheed Martin Corporation (NYSE: LMT) and General Dynamics Corporation (NYSE: GD).
+
+True Moves
+WMT predicted to go None
+prices: [152.59, 152.12]
+DIS predicted to go None
+prices: [151, 150.22]
+LMT predicted to go None
+prices: [371.88, 368.905]
+GD predicted to go None
+prices: [153.55, 152.6045]
+
+********************************************************
+
+News:
+Robinhood Settles Claims It Didn't Ensure Best Prices for Customer Trades
+The online brokerage agreed to pay $1.25 million. WASHINGTON-Robinhood Financial Inc. the online brokerage that has targeted millennials with commission-free trades, agreed to pay $1.25 million to settle regulatory claims it didn't take steps to ensure it was getting the best prices for customer orders.
+
+Prediction: 
+- Robinhood Financial Inc. (NASDAQ: ROKU) will decrease because it was fined for not ensuring the best prices for customer trades.
+
+True Moves
+ROKU predicted to go down
+prices: [139.6454, 138.25]
+
+********************************************************
+
+News:
+Fairway Files For Chapter 11, Proposing Sale to Village Super Market
+Village Market is offering to buy five Fairway stores in Manhattan and a distribution center out of bankruptcy for $70 million. Fairway Market, the iconic New York City grocery chain, filed for bankruptcy protection with a proposal to sell its Manhattan stores to the Village Super Market Inc., a member of the Wakefern Food Corp. cooperative.
+
+Prediction: 
+- Village Super Market Inc. (NYSE: VLGEA) will increase because it is buying five Fairway stores in Manhattan.
+- Fairway Market (OTCQB: FWMKQ) will decrease because it is filing for bankruptcy protection.
+
+True Moves
+VLGEA predicted to go down
+prices: [22.74, 22.7168]
+
+********************************************************
+
+News:
+Walgreens to Cut 4,000 Jobs in U.K. Boots Stores, Suspend Buybacks
+Pharmacy chain swings to loss, as drop in customer traffic during coronavirus weighs on demand at Boots stores. Walgreens Boots Alliance Inc. said it plans to cut about 4,000 jobs in the U.K. and suspend stock buybacks as demand fell off in its international business during the drugstore chain's latest quarter.
+
+Prediction: 
+- Walgreens Boots Alliance Inc. (NASDAQ: WBA) will decrease because of the job cuts and the suspension of buybacks.
+
+True Moves
+WBA predicted to go down
+prices: [38.3581, 38.435]
+
+********************************************************
+
+News:
+Yum's Profit Pressured by Stake in Grubhub
+Owner of chain restaurants also said general and administrative expenses increased 2%, while costs covering franchise advertising and services jumped 13%. Yum Brands Inc. marked down the value of its investment in Grubhub Inc., a move that hurt the restaurant chain's third-quarter profit but doesn't reflect the recent major selloff in shares of the delivery service.
+
+Prediction: 
+- Yum Brands Inc. (NYSE: YUM) will decrease because it has marked down the value of its investment in Grubhub Inc.
+
+True Moves
+YUM predicted to go down
+prices: [100.35, 100.93]
+
+********************************************************
+
+News:
+Amazon and Apple Built Vast Wireless Networks Using Your Devices. Here's How They Work.
+Apple's iPhone-powered Find My network and Amazon's Sidewalk network-coming soon to all newer Echo devices-are platforms in their own right, capable of supporting billions of connected devices. What to do if you're a globe-spanning tech titan that wants to connect millions or even billions of devices, but you don't want the hassle or cost of dealing with telcos, satellite operators or cable companies for connectivity? You use the devices your customers have already purchased-and brought into homes, businesses and public spaces-to make an end-run around traditional wireless networks.
+
+Prediction: 
+- Apple Inc. (NASDAQ: AAPL) will increase because they have created a vast wireless network using customer devices.
+- Amazon.com, Inc. (NASDAQ: AMZN) will increase because they have created a vast wireless network using customer devices.
+
+True Moves
+AAPL predicted to go up
+prices: [131.13, 130.72]
+AMZN predicted to go up
+prices: [3320.095, 3308.3]
+
+********************************************************
+
+News:
+How the WSJ Compared ESG Ratings
+The Journal converted three rating firms' scores for nearly 1,500 companies to a common scale. The Journal collected nearly 13,000 ESG scores in May 2021 from the websites of three prominent ratings firms-Refinitiv Holdings Ltd., MSCI Inc. and Sustainalytics, a Morningstar company-and identified 1,469 companies rated by all three.
+
+Prediction: 
+- All three ratings firms will see an increase in stock prices as investors become more interested in sustainable investing.
+- The companies that are rated the best by all three firms will see the biggest increase in stock prices.
+
+True Moves
+
+********************************************************
+
+News:
+GE Warns of Weak First Quarter, Pulls Forecasts
+Conglomerate says it can't forecast the duration of coronavirus disruptions or pace of recovery. General Electric Co. warned its first-quarter earnings would be below its prior forecasts and pulled its financial guidance for the full year, citing the disruptions and uncertainty caused by the coronavirus pandemic.
+
+Prediction: 
+- GE (NYSE: GE) will decrease because of the weak first quarter and pulled forecasts.
+- Boeing (NYSE: BA) will increase because of the increase in demand for air travel.
+
+True Moves
+GE predicted to go down
+prices: [7.2372, 7.315]
+BA predicted to go up
+prices: [153, 154.5699]
+
+********************************************************
+
+News:
+Facebook Might Plug Gap Even Amazon Can't Fill
+Social network's Shops venture comes as coronavirus pandemic has exploded e-commerce market and tested limits of its leader. With its e-commerce business generating more than $240 billion a year and still growing fast, one would think Amazon.com doesn't leave room for many others. Facebook rightly thinks otherwise.
+
+Prediction: 
+- Amazon.com, Inc. (NASDAQ: AMZN) will decrease because Facebook is coming in to compete with them in the e-commerce market.
+- Facebook, Inc. (NASDAQ: FB) will increase because they are coming in to compete with Amazon.com in the e-commerce market.
+
+True Moves
+AMZN predicted to go down
+prices: [2498.95, 2498.23]
+FB predicted to go up
+prices: [229.995, 229.79]
+
+********************************************************
+
+News:
+Jobless Claims Drop to Another Pandemic Low
+Initial claims fell 20,000 to 385,000 last week. Worker filings for initial jobless claims have dropped by 35% since late April, adding to signs of a healing labor market as the U.S. economy ramps up.
+
+Prediction: 
+- The unemployment rate will continue to drop as more people file for initial jobless claims.
+- The Dow Jones Industrial Average will continue to rise as the economy ramps up.
+
+True Moves
+
+********************************************************
+
+News:
+Behind HSBC's Rare Foray Into Politics Over Hong Kong
+Global lender that relies heavily on the city for profits backed China's controversial proposed security law. For a century and a half, HSBC Holdings PLC steered a neutral course through the messy geopolitics of east versus west. Now a public signal of the bank's support for China over the future of Hong Kong has set off a storm of criticism.
+
+Prediction: 
+- HSBC Holdings plc (NYSE: HSBC) will decrease because it has taken a public stance in support of China over the future of Hong Kong, which has set off a storm of criticism.
+
+True Moves
+HSBC predicted to go down
+prices: [26.59, 26.605]
+
+********************************************************
+
+News:
+Fiat Chrysler Settles Lawsuit Over Sales Reporting
+Justice Department and SEC probes remain ongoing. Fiat Chrysler Automobiles NV settled a lawsuit brought by an Illinois dealership group that accused the auto maker of pressuring it to manipulate monthly vehicle sales reports.
+
+Prediction: 
+- Fiat Chrysler Automobiles NV (NYSE: FCAU) will increase because the company has settled a lawsuit and the DOJ and SEC probes remain ongoing.
+
+True Moves
+FCAU predicted to go up
+prices: [15.4477, 15.44]
+
+********************************************************
+
+News:
+Aluminum Prices Push Toward 2020 High
+The metal has gained more than 13% year-to-date. Aluminum prices are trading near their highest levels in almost two years, fueled by soaring demand for raw materials and worries that potential new U.S. sanctions on one of the world's largest producers could limit global supplies of the metal.
+
+Prediction: 
+- Alcoa Corporation (NYSE: AA) will continue to increase because of the high demand for aluminum
+- Century Aluminum Company (NASDAQ: CENX) will continue to increase because of the high demand for aluminum
+- Rio Tinto plc (NYSE: RIO) will decrease because of the potential new U.S. sanctions on one of the world's largest producers
+
+True Moves
+AA predicted to go up
+prices: [21.98, 22]
+RIO predicted to go down
+prices: [76.5714, 76.64]
+CENX predicted to go up
+prices: [10.94, 10.96]
+
+********************************************************
+
+News:
+Covid-19 Pandemic Triggers Wave of Long-Term Unemployment
+Numbers of people unemployed between 15 and 26 weeks rose to record high in July. An increasing number of workers were unemployed for more than three months in July, a signal that the coronavirus pandemic is likely to have a lasting economic impact on many people.
+
+Prediction: 
+- The unemployment rate will continue to rise as the pandemic persists.
+- The number of people employed long-term will continue to decline as the pandemic persists.
+
+True Moves
+
+********************************************************
+
+News:
+U.S. Economy Gets Some Out-of-Season Cheer
+Manufacturing and housing starts defied their typical November slowdown. November is usually a time for both home builders and manufacturers to ease up. But not this year.
+
+Prediction: 
+- Home Depot Inc. (NYSE: HD) will increase because the U.S. economy is doing well and people are continuing to invest in their homes.
+- Lowe's Companies, Inc. (NYSE: LOW) will increase because the U.S. economy is doing well and people are continuing to invest in their homes.
+
+True Moves
+HD predicted to go up
+prices: [402.09, 401.47]
+LOW predicted to go up
+prices: [254.35, 254.5]
+
+********************************************************
+
+News:
+Google to Invest $13 Billion in U.S. Data Centers, Offices
+Investments would allow the company to create more than 10,000 new construction jobs, CEO says. Google Inc. is planning to spend $13 billion this year on data centers and offices across the U.S., Chief Executive Sundar Pichai said Wednesday.
+
+Prediction: 
+- Alphabet Inc. (NASDAQ: GOOGL) will increase because they are investing a lot of money into their U.S. data centers and offices. This will create many jobs.
+
+True Moves
+GOOGL predicted to go up
+prices: [1134.352, 1133.5881]
+
+********************************************************
+
+News:
+Bridgewater Associates Performance Hit by Coronavirus
+The world's largest hedge-fund firm took a big hit to its funds as it got caught out by the market impact of the coronavirus. Bridgewater Associates LP, the world's largest hedge-fund firm, took a big hit to its funds as it got caught out by the market impact of the coronavirus.
+
+Prediction: 
+- Bridgewater Associates LP (NYSE: BWA) will decrease because the company's funds were hit by the market impact of the coronavirus.
+
+True Moves
+BWA predicted to go down
+prices: [17.515, 18.57]
+
+********************************************************
+
+News:
+Crude-Oil Price Overhaul Hits Delay Amid Shipping-Cost Uproar
+Platts defers plan to include West Texas oil prices in its basket of international crudes following pushback from industry. Plans for the biggest overhaul in decades of how international oil prices are measured are being put on hold following objections over how to treat shipping costs.
+
+Prediction: 
+- Marathon Petroleum Corporation (NYSE: MPC) will decrease because the company's shipping costs will not be taken into account for the price of oil.
+- Hess Corporation (NYSE: HES) will decrease because the company's shipping costs will not be taken into account for the price of oil.
+- Exxon Mobil Corporation (NYSE: XOM) will decrease because the company's shipping costs will not be taken into account for the price of oil.
+
+True Moves
+MPC predicted to go down
+prices: [57.63, 57.86]
+HES predicted to go down
+prices: [70.07, 70.05]
+XOM predicted to go down
+prices: [61.075, 61.345]
+
+********************************************************
+
+News:
+Voting-Machine Company Dominion Sues Fox News Over Election Claims
+Lawsuit alleges defamation, citing on-air statements about the presidential election and Dominion's technology. Dominion Voting Systems sued Fox Corp.'s Fox News, seeking $1.6 billion in damages for what the company alleges were defamatory on-air comments about its products in the aftermath of the U.S. presidential election.
+
+Prediction: 
+- Dominion Voting Systems (NYSE: DVS) will increase because of the lawsuit and the publicity it will bring.
+- Fox News (NASDAQ: FOXA) will decrease because of the lawsuit and the publicity it will bring.
+
+True Moves
+DVS predicted to go up
+prices: None
+FOXA predicted to go down
+prices: [36.1, 36.63]
+
+********************************************************
+
+News:
+Facebook to Pull Controversial Onavo App
+Privacy concerns prompt withdrawal of tool for tracking user behavior. Facebook Inc. is shutting down its Onavo app that tracks user behavior, a sign the social-media titan is rethinking how it collects information about users amid widespread privacy concerns.
+
+Prediction: 
+- Facebook, Inc. (NASDAQ: FB) will decrease because it is pulling a controversial app that tracks user behavior.
+- Apple Inc. (NASDAQ: AAPL) will increase because it is still collecting user data through other apps.
+
+True Moves
+FB predicted to go down
+prices: [161.25, 161.4953]
+AAPL predicted to go up
+prices: [171.9592, 172.21]
+
+********************************************************
+
+News:
+Google's Costs Have Catching Up to Do
+Surge in operating profit comes as R&D, capex and sales expenditures track below normal. Google's great quarter may have been a little too great.
+
+Prediction: 
+- Alphabet Inc. (NASDAQ: GOOGL) will decrease because its costs are catching up to its revenue and profit.
+- Amazon.com, Inc. (NASDAQ: AMZN) will increase because it is not spending as much on its own research and development, and its sales are still increasing.
+
+True Moves
+GOOGL predicted to go up
+prices: [2727.26, 2736.205]
+AMZN predicted to go up
+prices: [3617.63, 3627.83]
+
+********************************************************
+
+News:
+Florida Charges Guggenheim Insurance Chief for Role in Boat Crash
+Daniel Towriss pleads not guilty to five misdemeanors including negligence and reckless driving. Florida prosecutors charged Guggenheim Partners's top insurance executive with negligence and reckless driving stemming from his role in a late December boating collision near Fort Lauderdale.
+
+Prediction: 
+- Guggenheim Partners LLC (NYSE:GOF) will decrease because one of their top executives has been charged with a crime.
+- The Travelers Companies, Inc. (NYSE: TRV) will increase because they are a competitor of Guggenheim Partners LLC and stand to benefit from this news.
+
+True Moves
+GOF predicted to go down
+prices: None
+TRV predicted to go up
+prices: [112.53, 112.53]
+
+********************************************************
+
+News:
+Should Parents Try to Spend the Same Amount of Money on Each Child?
+Sometimes what seems most equitable isn't necessarily the most fair. Most parents would probably say they love all of their children equally and don't play favorites. Keeping the scales balanced when it comes to family finances, however, is more complicated.
+
+Prediction: 
+- Amazon.com, Inc. (NASDAQ: AMZN) will increase because parents may feel they need to spend the same amount of money on each child to prove they are not playing favorites.
+- Apple Inc. (NASDAQ: AAPL) will increase because parents may feel they need to spend the same amount of money on each child to prove they are not playing favorites.
+- Netflix, Inc. (NASDAQ: NFLX) will increase because
+
+True Moves
+AMZN predicted to go up
+prices: [2147.14, 2148.86]
+AAPL predicted to go up
+prices: [325.5799, 325.28]
+NFLX predicted to go up
+prices: [383.5199, 383.8499]
+
+********************************************************
+
+News:
+Credit-Card Applications Hit Pandemic High
+Almost 27% of U.S. consumers said in October that they had applied for a credit card in the past 12 months. Americans are applying for credit cards at a rate not seen since before the pandemic.
+
+Prediction: 
+- Visa Inc. (NYSE: V) will increase because of the increase in credit card applications
+- American Express Company (NYSE: AXP) will increase because of the increase in credit card applications
+
+True Moves
+V predicted to go up
+prices: [196.83, 198.1161]
+AXP predicted to go up
+prices: [155.45, 156.86]
+
+********************************************************
+
+News:
+Fire Up the Grill: Propane Prices Have Tumbled
+Households that are heated with the fuel could receive lower bills this autumn. Crude-oil and natural-gas prices have had bad years, but neither can hold a candle to propane, which has lost roughly half of its value over the past 12 months.
+
+Prediction: 
+- AmeriGas Partners, L.P. (NYSE: APU) will increase because the price of propane has plummeted and households will switch to this fuel.
+- Ferrellgas Partners, L.P. (NYSE: FGP) will increase because the price of propane has plummeted and households will switch to this fuel.
+
+True Moves
+APU predicted to go up
+prices: None
+FGP predicted to go up
+prices: None
+
+********************************************************
+
+News:
+Job Market Remains Tight Despite Omicron Concerns
+Latest data shows few layoffs as employers struggle to find enough workers; trade deficit widened. The labor market remains historically tight, with the number of unemployment-benefits filings holding last week around the lowest levels in five decades as firms struggled to remain fully staffed amid a resurgent pandemic.
+
+Prediction: 
+- Amazon.com, Inc. (NASDAQ: AMZN) will continue to grow as the company is expanding its fulfillment centers to meet the demand for workers.
+- Walmart Inc. (NYSE: WMT) will continue to grow as the company is expanding its fulfillment centers to meet the demand for workers.
+
+True Moves
+WMT predicted to go up
+prices: [143.16, 143.408]
+AMZN predicted to go up
+prices: [3266.27, 3269.735]
+
+********************************************************
+
+News:
+Northwestern University Picks Economist to Steer M.B.A. Program
+Francesca Cornelli of the London Business School to join the Kellogg School of Management in August. Northwestern University named Francesca Cornelli as the new dean of its Kellogg School of Management, taking over the M.B.A. program.
+
+Prediction: 
+- Northwestern University (NU) will increase because they have appointed a new dean for their M.B.A. program.
+
+True Moves
+NU predicted to go up
+prices: None
+
+********************************************************
+
+News:
+Higher Emissions Standards Help Extend Booming Palladium Rally
+Supply deficits persist, despite predictions car makers will replace the metal with cheaper alternative. Prices for a rare metal used to filter emissions in gasoline car engines continue rising, defying predictions that substitution of a cheaper alternative by auto makers would halt a yearslong rally.
+
+Prediction: 
+- Palladium (NYSE:PALL) will continue to increase because of the deficit in supply and the increasing demand for the metal.
+
+True Moves
+PALL predicted to go up
+prices: [176.6799, 176.547]
+
+********************************************************
+
+News:
+Fed's Repo Operations See Light Response Amid Upward Rate Pressure
+Resume Subscription. The first two of three New York Fed liquidity operations saw light demand Thursday, amid signs of conflicting pressure in money-market rates.
+
+Prediction: 
+- The Federal Reserve's repo operations will continue to have light demand.
+- The Federal Reserve's repo operations will help to keep money-market rates from increasing too rapidly.
+
+True Moves
+
+********************************************************
+
+News:
+'Apex Legends' Hits Bull's-Eye for Electronic Arts
+Surprise 'Fortnite' challenger boosts EA's results and eases pain of other misfires. For Electronic Arts , one out of three has turned out to be...not too bad.
+
+Prediction: 
+- Electronic Arts Inc. (NASDAQ: EA) will increase because the game "Apex Legends" is doing well.
+- Activision Blizzard, Inc. (NASDAQ: ATVI) will decrease because "Apex Legends" is taking market share from "Fortnite."
+
+True Moves
+EA predicted to go up
+prices: [93.11, 93.65]
+ATVI predicted to go down
+prices: [46.59, 46.7769]
+
+********************************************************
+
+News:
+New York State's Tax Increase: What High Earners Need to Know
+Changes for some in New York City create the highest combined local tax rate in the country. Taxes are going up for New York's highest earners.
+
+Prediction: 
+- New York City's real estate market will take a hit because people will be less likely to want to move there when they have to pay such high taxes.
+- New York State's real estate market will take a hit because people will be less likely to want to move there when they have to pay such high taxes.
+
+True Moves
+
+********************************************************
+
+News:
+Overthinking Cruise Stocks Could End the Carnival
+Cruise line shares are trading up on reopening hopes alone. If you are confused by the savage recovery of so-called "reopening" stocks, you are clearly overthinking things. Yes, sectors like hotels, amusement parks and casinos are soaring, even as revenues remain severely depressed. But markets' new mantra seems to channel the age-old design principle: "Keep it simple, stupid."
+
+Prediction: 
+- Carnival Corporation (NYSE: CCL) will decrease because the market is realizing that the stock price is too high and that the company is not doing well.
+- Royal Caribbean Cruises Ltd. (NYSE: RCL) will decrease because the market is realizing that the stock price is too high and that the company is not doing well.
+
+True Moves
+CCL predicted to go None
+prices: [26.03, 26.3818]
+RCL predicted to go down
+prices: [88.27, 89.39]
+
+********************************************************
+
+News:
+Warm Winter Weather Prompts Lower Natural Gas Price Forecasts
+Prices fell Monday amid fears that warmer-than-normal winter weather won't drive enough demand to counter surging output. Natural gas prices fell Monday amid fears that warmer-than-normal winter weather won't drive enough demand for the heating fuel to counter surging output.
+
+Prediction: 
+- Chesapeake Energy Corporation (NYSE: CHK) will decrease because of the warmer weather and less demand for natural gas.
+- Devon Energy Corporation (NYSE: DVN) will decrease because of the warmer weather and less demand for natural gas.
+- Range Resources Corporation (NYSE: RRC) will decrease because of the warmer weather and less demand for natural gas.
+
+True Moves
+CHK predicted to go down
+prices: [0.7886, 0.7906]
+DVN predicted to go down
+prices: [23.165, 23.15]
+RRC predicted to go down
+prices: [4.08, 4.06]
+
+********************************************************
+
+News:
+Ulta Beauty Undertakes Review of Its 1,254 Stores
+Cosmetics chain is looking to renegotiate leases, move locations and close some underperforming stores. Ulta Beauty Inc., a cosmetics chain that is a staple of shopping centers across the country, is undertaking a "clean sheet" review of its stores, exploring whether to close, move or remodel its hundreds of brick-and-mortar locations in light of pressures facing retailers, including the coronavirus pandemic.
+
+Prediction: 
+- Ulta Beauty Inc. (NASDAQ: ULTA) will decrease because of the review of its stores and the potential closures of some underperforming stores.
+
+True Moves
+ULTA predicted to go down
+prices: [238.6, 236.91]
+
+********************************************************
+
+News:
+Investment in U.S. Shale Projects to Halve in 2020, IEA Says
+Energy sector's transition to renewables is also expected to slow, agency's director says. 
+
+Prediction: 
+- Schlumberger Ltd. (NYSE: SLB) will decrease because of the decrease in investment in U.S. shale projects
+- Exxon Mobil Corp. (NYSE: XOM) will decrease because of the decrease in investment in U.S. shale projects
+- Tesla, Inc. (NASDAQ: TSLA) will increase because of the increase in investment in renewables
+
+True Moves
+SLB predicted to go down
+prices: [18.8852, 19.05]
+XOM predicted to go down
+prices: [46.25, 46.3]
+TSLA predicted to go up
+prices: [819.45, 815.68]
+
+********************************************************
+
+News:
+Copper Prices Rise on Trade Hopes
+Prices are up after falling in four consecutive sessions through Wednesday. Copper prices edged higher Friday, climbing for the second consecutive session as analysts looked ahead to developments on U.S.-China trade policy.
+
+Prediction: 
+- Freeport-McMoRan Inc. (NYSE: FCX) will increase because copper prices are rising
+
+True Moves
+FCX predicted to go up
+prices: [10.08, 10.13]
+
+********************************************************
+
+News:
+AT&T to Sell Digital Ad Tech Platform Xandr to Microsoft
+Deal marks end of effort by AT&T to crack online advertising market dominated by Facebook, Google. AT&T Inc. will sell online advertising platform Xandr Inc. to Microsoft Corp. , ending its bid to become a major force in digital marketing.
+
+Prediction: 
+- AT&T Inc. (NYSE: T) will decrease because it is no longer focusing on its digital advertising platform.
+- Microsoft Corp. (NASDAQ: MSFT) will increase because it is acquiring AT&T's Xandr advertising platform.
+
+True Moves
+T predicted to go down
+prices: [24.69, 24.6676]
+MSFT predicted to go up
+prices: [325.49, 325.839]
+
+********************************************************
+
+News:
+Boeing Rebuked Over Tanker
+Air Force won't regain full confidence in plane maker's quality control for at least a year, says top official. The U.S. Air Force has lost confidence in Boeing Co. 's ability to maintain quality control over a new aerial refueling tanker it is building, with a senior Pentagon official saying Thursday that it could take at least a year to rebuild trust in the program.
+
+Prediction: 
+- Boeing Co. (NYSE: BA) will decrease because the Air Force has lost confidence in their ability to maintain quality control.
+
+True Moves
+BA predicted to go down
+prices: [373.18, 372.8]
+
+********************************************************
+
+News:
+PG&E Losses Widen as Fire Costs Rise
+Wildfire-related legal settlements, other expenses add up to $3.9 billion pretax charge. PG&E Corp. reported a steep second-quarter loss as the utility contended with costs associated with wildfire-related lawsuits, bankruptcy and efforts to repair and improve its electric grid in Northern California.
+
+Prediction: 
+- PG&E Corp. (NYSE: PCG) will continue to decline because of their wildfire-related expenses.
+- Edison International (NYSE: EIX) will increase because they are not PG&E's main competitor and are not as affected by the wildfires.
+
+True Moves
+PCG predicted to go down
+prices: [18.0401, 18.1025]
+EIX predicted to go up
+prices: [74.615, 74.77]
+
+********************************************************
+
+News:
+Zero-Coupon Bond Index Nears Zero Bonds
+Pillar of 1980s LBO boom stands on verge of extinction as index loses its last member. A pillar of the 1980s leveraged-buyout boom is on the verge of extinction.
+
+Prediction: 
+- KKR & Co. LP (NYSE: KKR) will decrease because the zero-coupon bond index is losing its last member.
+
+True Moves
+KKR predicted to go down
+prices: [25.86, 25.15]
+
+********************************************************
+
+News:
+General Mills Aims to Protect Coronavirus Sales Boost
+Grocery sales are moderating, prompting food makers to make marketing and operational changes. General Mills Inc. said the coronavirus-fueled surge in grocery sales is waning, increasing pressure on food makers to hold on to the new shoppers who tried their brands during the height of the pandemic.
+
+Prediction: 
+- General Mills Inc. (NYSE: GIS) will decrease because the coronavirus-fueled surge in grocery sales is waning.
+
+True Moves
+GIS predicted to go down
+prices: [58.22, 58.2423]
+
+********************************************************
+
+News:
+Are Standing Desks Really Better for Your Back? It Depends...
+If used correctly, a standing desk is a good start, but those prone to pain might get more relief if they invest in these accessories-from anti-fatigue mats to a posture monitor.. DOCTORS, NO FANS of sedentary lifestyles, rarely encourage anyone-especially those with back pain-to spend all day sitting. A standing desk can help avert aching muscles if you use it correctly, get off your feet and move at regular intervals and-here's where we come in-consider investing in the right ergonomic accessories. If you insist on slouching in high heels on a concrete floor for hours, we can't help you.
+
+Prediction: 
+- IKEA AB (OTCMKTS: IKEAF) will increase because people are looking for alternatives to sitting all day and IKEA offers a variety of standing desks
+- Herman Miller, Inc. (NASDAQ: MLHR) will increase because it offers a variety of ergonomic accessories to make standing desks more comfortable
+
+True Moves
+MLHR predicted to go up
+prices: None
+
+********************************************************
+
+News:
+Yellen to Appoint Senior Fed Official to Run Top Bank Regulator
+Michael Hsu is expected to become acting comptroller of the currency. WASHINGTON-Treasury Secretary Janet Yellen plans to appoint one of the Federal Reserve's top big-bank supervisors to become the acting comptroller of the currency, overseeing the country's largest financial firms, according to a person familiar with the matter.
+
+Prediction: 
+- Bank of America Corporation (NYSE: BAC) will increase because the comptroller is one of their top supervisors
+- JPMorgan Chase & Co. (NYSE: JPM) will increase because the comptroller is one of their top supervisors
+
+True Moves
+BAC predicted to go up
+prices: [40.6026, 40.6024]
+JPM predicted to go up
+prices: [154.0322, 154.039]
+
+********************************************************
+
+News:
+Skip the Traffic: Paddle to the Office Instead
+For intrepid city-dwellers, collapsible kayaks are redefining the urban commute on the weekend-and even on workdays. BACK IN THE 1990s when I worked as a financial reporter on the Jersey City waterfront, there were summer days when it seemed I was perpetually on vacation, with brief interruptions to chase market fluctuations. You see, tucked in a mountaineering-size pack hiding in an office closet was the collapsible kayak I'd paddled to work. The bag, and whiffs of the Hudson River's brine it emitted, held the promise of an evening adventure to follow.
+
+Prediction: 
+- Outdoor gear companies such as Columbia Sportswear Company (NASDAQ: COLM) and The North Face, Inc. (NYSE: VFC) will increase in stock prices because more people will be interested in outdoor activities.
+- Kayak companies such as Old Town Canoe & Kayak (NASDAQ: OTTR) and Werner Co. (NYSE: WERN) will increase in stock prices because more people will be using kayaks for transportation.
+
+True Moves
+VFC predicted to go up
+prices: [82.01, 82.0947]
+WERN predicted to go up
+prices: [27.89, 27.88]
+COLM predicted to go None
+prices: [93.55, 93.78]
+OTTR predicted to go None
+prices: [49.58, 49.67]
+
+********************************************************
+
+News:
+U.S. New Home Sales Rose in December
+Sales increase 3.7%, closing weak year for housing market. WASHINGTON-Sales of new homes in the U.S. rose in December, closing a weak year for the housing market.
+
+Prediction: 
+- Homebuilders such as Lennar Corporation (NYSE: LEN) and D.R. Horton, Inc. (NYSE: DHI) will increase because the news signals a recovery in the housing market.
+- The Dow Jones Home Construction Index (DJUSHB) will also increase because of this news.
+
+True Moves
+LEN predicted to go None
+prices: [46.8002, 46.8]
+DHI predicted to go up
+prices: [39.2301, 39.28]
+
+********************************************************
+
+News:
+Beyond Meat's Pitch for More Customers: It's Not Just Good for the Planet, It's Also Good for You.
+Companies that aim to win converts to green products need to convince consumers that they're also acting in their own best interests.. In the hierarchy of what motivates us to buy stuff, two powerful forces are at play: Me and we.
+
+Prediction: 
+- Beyond Meat, Inc. (BYND) will continue to increase in stock price because it is not only good for the planet, but it is also good for the individual.
+
+True Moves
+BYND predicted to go up
+prices: [152.81, 153.21]
+
+********************************************************
+
+News:
+Oil Rises as Supply Concerns Outweigh Rising Stockpiles
+Stockpiles of U.S. crude reached a two-month high of 445 million barrels last week. HIGHLIGHTS
+
+Prediction: 
+- Exxon Mobil Corporation (NYSE:XOM) will increase because of the rising oil prices
+- Chevron Corporation (NYSE:CVX) will increase because of the rising oil prices
+
+True Moves
+XOM predicted to go None
+prices: [71.605, 71.65]
+CVX predicted to go up
+prices: [113.32, 113.075]
+
+********************************************************
+
+News:
+Hong Kong Security Law Stuns International Business: 'It Turns Out It Is Really Bad'
+Company executives worry Beijing's intercession will eventually undermine city's unique role as trading hub. HONG KONG-As China drew up a new security law for Hong Kong last month, its top Foreign Ministry official in the city gathered international business groups and diplomats to deliver a message from Beijing: Don't panic.
+
+Prediction: 
+- HSBC Holdings plc (NYSE: HSBC) will decrease because of the new security law in Hong Kong and the impact it will have on international business.
+- Cathay Pacific Airways Ltd. (OTC Pink: CPCAY) will decrease because of the new security law in Hong Kong and the impact it will have on international business.
+- The Bank of East Asia, Ltd. (OTC Pink: BKEAY) will decrease because of the new security law
+
+True Moves
+HSBC predicted to go down
+prices: [24.245, 24.37]
+
+********************************************************
+
+News:
+Qualcomm CEO Steve Mollenkopf to Step Down
+Mobile-phone chip giant says its president, Cristiano Amon, will take over CEO role on June 30. Qualcomm Inc. on Tuesday said Chief Executive Steve Mollenkopf would step down in June after leading the mobile-phone chip giant through an unusually tumultuous period that has seen the company capitalize on booming smartphone sales as it battled one of its most important customers, Apple Inc.
+
+Prediction: 
+- Qualcomm Inc. (NASDAQ: QCOM) will decrease because its president, Cristiano Amon, will take over CEO role on June 30 and so may not be as effective.
+- Apple Inc. (NASDAQ: AAPL) will increase because it is one of Qualcomm's most important customers.
+
+True Moves
+QCOM predicted to go down
+prices: [151.5, 151.54]
+AAPL predicted to go up
+prices: [130.18, 130.31]
+
+********************************************************
+
+News:
+Day Trading Is So Last Semester
+College students at the University of Pennsylvania want in on the SPAC boom. Kids these days!
+
+Prediction: 
+- University of Pennsylvania (NYSE: UPENN) will increase because more students are interested in day trading and the stock market.
+
+True Moves
+UPENN predicted to go up
+prices: None
+
+********************************************************
+
+News:
+Sony Cracks Down on Sexually Explicit Content in Games
+Move reflects concerns in the U.S. about the depiction of women, but it angers developers in Japan. TOKYO- Sony Corp. is cracking down on sexual content in PlayStation 4 videogames globally, reflecting concerns in the U.S. about the depiction of women in games but also irritating some software developers.
+
+Prediction: 
+- Sony Corp. (NYSE: SNE) will decrease because they are cracking down on sexual content in PlayStation 4 videogames. This may anger some developers.
+- Microsoft Corporation (NASDAQ: MSFT) will increase because they are not cracking down on sexual content in their videogames, and may be seen as more lenient.
+
+True Moves
+SNE predicted to go down
+prices: [47.9438, 47.955]
+MSFT predicted to go down
+prices: [121.09, 121.055]
+
+********************************************************
+
+News:
+Intelsat Names New Finance Chief as It Awaits Key Regulatory Decision
+Satellite operator has been struggling with high debt and challenging market conditions. Intelsat SA appointed a new finance chief as the satellite operator seeks to shore up its finances and evolve technologically amid waning demand across the sector.
+
+Prediction: 
+- Intelsat SA (NYSE: I) will decrease because the company is struggling with high debt and challenging market conditions.
+
+True Moves
+I predicted to go down
+prices: [19.84, 19.84]

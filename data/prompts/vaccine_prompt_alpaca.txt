@@ -1,0 +1,11 @@
+News: "AstraZeneca-Oxford Vaccine Up to 90% Effective in Trials. U.K. drugmaker hopes to have the two-dose shot available for use around year-end, pending regulatory approval. Researchers hope will result in the start of widespread vaccinations by the end of the year."
+
+Stock Prediction(s) for AZN, JNJ, PFE, MRNA:
+- AstraZeneca plc (NASDAQ: AZN) will increase because their vaccine is 90% effective, and they are only waiting for regulatory approval before being deployed.
+- Johnson & Johnson (NYSE: JNJ) will decrease because they are also working on a vaccine, but they are a direct competitor of AstraZeneca.
+- Pfizer Inc (NYSE: PFE) will decrease because they are also working on a vaccine, but they are a direct competitor of AstraZeneca.
+- Moderna Inc (NASDAQ: MRNA) will decrease because they are also working on a vaccine, but they are a direct competitor of AstraZeneca.
+
+News: "{TITLE}. {SUMMARY}"
+
+Stock Prediction(s) for {STOCKS}:

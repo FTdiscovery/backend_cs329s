@@ -1,0 +1,9 @@
+News: "Credit-Card Applications Hit Pandemic High. Almost 27% of U.S. consumers said in October that they had applied for a credit card in the past 12 months. Americans are applying for credit cards at a rate not seen since before the pandemic."
+
+Stock Prediction(s):
+- Visa Inc. (NYSE: V) will increase because of the increase in credit card applications
+- American Express Company (NYSE: AXP) will increase because of the increase in credit card applications
+
+News: "{TITLE}. {SUMMARY}"
+
+Stock Prediction(s):
